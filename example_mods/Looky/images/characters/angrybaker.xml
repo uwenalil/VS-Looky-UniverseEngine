@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="angrybaker.png">
+<SubTexture name="angrybaker down0000" x="0" y="0" width="800" height="800" frameX="0" frameY="0" frameWidth="800" frameHeight="800" />
+<SubTexture name="angrybaker idle0000" x="800" y="0" width="800" height="800" frameX="0" frameY="0" frameWidth="800" frameHeight="800" />
+<SubTexture name="angrybaker left0000" x="0" y="800" width="800" height="800" frameX="0" frameY="0" frameWidth="800" frameHeight="800" />
+<SubTexture name="angrybaker right0000" x="800" y="800" width="800" height="800" frameX="0" frameY="0" frameWidth="800" frameHeight="800" />
+<SubTexture name="angrybaker up0000" x="1600" y="0" width="800" height="800" frameX="0" frameY="0" frameWidth="800" frameHeight="800" />
+</TextureAtlas>

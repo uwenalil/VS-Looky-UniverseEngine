@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="littlewindowthingie.png">
+<SubTexture name="selected0000" x="0" y="0" width="79" height="33" frameX="0" frameY="0" frameWidth="79" frameHeight="33" />
+<SubTexture name="unselected0000" x="0" y="33" width="78" height="32" frameX="0" frameY="0" frameWidth="78" frameHeight="32" />
+</TextureAtlas>

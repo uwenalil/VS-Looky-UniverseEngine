@@ -1,0 +1,201 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-3,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "BF HEY"
+		},
+		{
+			"offsets": [
+				14,
+				18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hurt",
+			"indices": [],
+			"name": "BF hit"
+		},
+		{
+			"offsets": [
+				-4,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "scared",
+			"indices": [],
+			"name": "BF idle shaking"
+		},
+		{
+			"offsets": [
+				-10,
+				-16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "dodge",
+			"indices": [],
+			"name": "boyfriend dodge"
+		},
+		{
+			"offsets": [
+				294,
+				267
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "attack",
+			"indices": [],
+			"name": "boyfriend attack"
+		},
+		{
+			"offsets": [
+				-40,
+				-40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "pre-attack",
+			"indices": [],
+			"name": "bf pre attack"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				55,
+				205
+			],
+			"anim": "idle",
+			"fps": 19,
+			"name": "realspo idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				55,
+				205
+			],
+			"anim": "singLEFT",
+			"fps": 19,
+			"name": "realspo singLEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				55,
+				205
+			],
+			"anim": "singDOWN",
+			"fps": 19,
+			"name": "realspo singDOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				54,
+				204
+			],
+			"anim": "singUP",
+			"fps": 19,
+			"name": "realspo singUP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				54,
+				204
+			],
+			"anim": "singRIGHT",
+			"fps": 19,
+			"name": "realspo singRIGHT",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				128,
+				277
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "realspo miss",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				128,
+				277
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "realspo miss",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				128,
+				277
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "realspo miss",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				128,
+				277
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "realspo miss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 18,
+			"anim": "",
+			"loop": false,
+			"name": ""
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/realspo",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "realspo",
+	"flip_x": true,
+	"healthbar_colors": [
+		142,
+		126,
+		0
+	],
+	"camera_position": [
+		150,
+		-250
+	],
+	"sing_duration": 4,
+	"scale": 1.2,
+	"_editor_isPlayer": true
+}

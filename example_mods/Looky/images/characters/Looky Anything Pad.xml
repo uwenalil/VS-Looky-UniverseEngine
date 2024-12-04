@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Looky Anything Pad.png">
+<SubTexture name="Looky Anything Pad idle0000" x="0" y="0" width="1080" height="568" frameX="-9" frameY="-32" frameWidth="1100" frameHeight="619" />
+<SubTexture name="Looky Anything Pad first0000" x="1080" y="0" width="1080" height="568" frameX="-9" frameY="-32" frameWidth="1100" frameHeight="619" />
+<SubTexture name="Looky Anything Pad second0000" x="0" y="568" width="1080" height="568" frameX="-9" frameY="-32" frameWidth="1100" frameHeight="619" />
+<SubTexture name="Looky Anything Pad third0000" x="1080" y="568" width="1080" height="568" frameX="-9" frameY="-32" frameWidth="1100" frameHeight="619" />
+<SubTexture name="Looky Anything Pad fourth0000" x="0" y="1136" width="1080" height="568" frameX="-9" frameY="-32" frameWidth="1100" frameHeight="619" />
+<SubTexture name="Looky Anything Pad 50000" x="1080" y="1136" width="1080" height="568" frameX="-9" frameY="-32" frameWidth="1100" frameHeight="619" />
+<SubTexture name="Looky Anything Pad question0000" x="2160" y="0" width="1080" height="568" frameX="-9" frameY="-32" frameWidth="1100" frameHeight="619" />
+<SubTexture name="Looky Anything Pad question0001" x="2160" y="568" width="1080" height="568" frameX="-9" frameY="-32" frameWidth="1100" frameHeight="619" />
+<SubTexture name="Looky Anything Pad 40000" x="2160" y="1136" width="1080" height="568" frameX="-9" frameY="-32" frameWidth="1100" frameHeight="619" />
+<SubTexture name="Looky Anything Pad minus0000" x="0" y="1704" width="1080" height="568" frameX="-9" frameY="-32" frameWidth="1100" frameHeight="619" />
+<SubTexture name="Looky Anything Pad 10000" x="1080" y="1704" width="1080" height="568" frameX="-9" frameY="-32" frameWidth="1100" frameHeight="619" />
+<SubTexture name="Looky Anything Pad plus0000" x="2160" y="1704" width="1080" height="568" frameX="-9" frameY="-32" frameWidth="1100" frameHeight="619" />
+<SubTexture name="Looky Anything Pad 60000" x="0" y="2272" width="1080" height="568" frameX="-9" frameY="-32" frameWidth="1100" frameHeight="619" />
+<SubTexture name="Looky Anything Pad 100000" x="1080" y="2272" width="1080" height="568" frameX="-9" frameY="-32" frameWidth="1100" frameHeight="619" />
+</TextureAtlas>

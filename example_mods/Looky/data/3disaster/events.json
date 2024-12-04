@@ -1,0 +1,476 @@
+{
+	"song": {
+		"events": [
+			[
+				38900,
+				[
+					[
+						"youCannotBeatUsText",
+						"You",
+						""
+					]
+				]
+			],
+			[
+				39100,
+				[
+					[
+						"youCannotBeatUsText",
+						"You there,",
+						""
+					]
+				]
+			],
+			[
+				40100,
+				[
+					[
+						"youCannotBeatUsText",
+						"You there, in",
+						""
+					]
+				]
+			],
+			[
+				40300,
+				[
+					[
+						"youCannotBeatUsText",
+						"You there, intrude",
+						""
+					]
+				]
+			],
+			[
+				40500,
+				[
+					[
+						"youCannotBeatUsText",
+						"You there, intruder!",
+						""
+					]
+				]
+			],
+			[
+				41200,
+				[
+					[
+						"youCannotBeatUsText",
+						"Get",
+						""
+					]
+				]
+			],
+			[
+				41500,
+				[
+					[
+						"youCannotBeatUsText",
+						"Get back",
+						""
+					]
+				]
+			],
+			[
+				41800,
+				[
+					[
+						"youCannotBeatUsText",
+						"Get back to",
+						""
+					]
+				]
+			],
+			[
+				41900,
+				[
+					[
+						"youCannotBeatUsText",
+						"Get back to your",
+						""
+					]
+				]
+			],
+			[
+				42000,
+				[
+					[
+						"youCannotBeatUsText",
+						"Get back to your own",
+						""
+					]
+				]
+			],
+			[
+				42400,
+				[
+					[
+						"youCannotBeatUsText",
+						"Get back to your own di",
+						""
+					]
+				]
+			],
+			[
+				42500,
+				[
+					[
+						"youCannotBeatUsText",
+						"Get back to your own dimen",
+						""
+					]
+				]
+			],
+			[
+				42700,
+				[
+					[
+						"youCannotBeatUsText",
+						"Get back to your own dimension!",
+						""
+					]
+				]
+			],
+			[
+				43300,
+				[
+					[
+						"youCannotBeatUsText",
+						"You",
+						""
+					]
+				]
+			],
+			[
+				43400,
+				[
+					[
+						"youCannotBeatUsText",
+						"You don't",
+						""
+					]
+				]
+			],
+			[
+				43600,
+				[
+					[
+						"youCannotBeatUsText",
+						"You don't know",
+						""
+					]
+				]
+			],
+			[
+				43800,
+				[
+					[
+						"youCannotBeatUsText",
+						"You don't know what",
+						""
+					]
+				]
+			],
+			[
+				44000,
+				[
+					[
+						"youCannotBeatUsText",
+						"You don't know what you",
+						""
+					]
+				]
+			],
+			[
+				44100,
+				[
+					[
+						"youCannotBeatUsText",
+						"You don't know what you are",
+						""
+					]
+				]
+			],
+			[
+				44400,
+				[
+					[
+						"youCannotBeatUsText",
+						"You don't know what you are do",
+						""
+					]
+				]
+			],
+			[
+				44500,
+				[
+					[
+						"youCannotBeatUsText",
+						"You don't know what you are doing!",
+						""
+					]
+				]
+			],
+			[
+				45100,
+				[
+					[
+						"youCannotBeatUsText",
+						"If",
+						""
+					]
+				]
+			],
+			[
+				45300,
+				[
+					[
+						"youCannotBeatUsText",
+						"If you",
+						""
+					]
+				]
+			],
+			[
+				45400,
+				[
+					[
+						"youCannotBeatUsText",
+						"If you don't",
+						""
+					]
+				]
+			],
+			[
+				45700,
+				[
+					[
+						"youCannotBeatUsText",
+						"If you don't get",
+						""
+					]
+				]
+			],
+			[
+				45900,
+				[
+					[
+						"youCannotBeatUsText",
+						"If you don't get back",
+						""
+					]
+				]
+			],
+			[
+				46200,
+				[
+					[
+						"youCannotBeatUsText",
+						"If you don't get back right",
+						""
+					]
+				]
+			],
+			[
+				46400,
+				[
+					[
+						"youCannotBeatUsText",
+						"If you don't get back right now,",
+						""
+					]
+				]
+			],
+			[
+				46900,
+				[
+					[
+						"youCannotBeatUsText",
+						"If you don't get back right now, there",
+						""
+					]
+				]
+			],
+			[
+				47100,
+				[
+					[
+						"youCannotBeatUsText",
+						"If you don't get back right now, there will",
+						""
+					]
+				]
+			],
+			[
+				47300,
+				[
+					[
+						"youCannotBeatUsText",
+						"If you don't get bac kright now, there will be",
+						""
+					]
+				]
+			],
+			[
+				47500,
+				[
+					[
+						"youCannotBeatUsText",
+						"If you don't get back right now, there will be con",
+						""
+					]
+				]
+			],
+			[
+				47800,
+				[
+					[
+						"youCannotBeatUsText",
+						"If you don't get back right now, there will be conse",
+						""
+					]
+				]
+			],
+			[
+				47900,
+				[
+					[
+						"youCannotBeatUsText",
+						"If you don't get back right now, there will be consequen",
+						""
+					]
+				]
+			],
+			[
+				48100,
+				[
+					[
+						"youCannotBeatUsText",
+						"If you don't get back right now, there will be consequences",
+						""
+					]
+				]
+			],
+			[
+				48300,
+				[
+					[
+						"youCannotBeatUsText",
+						"to",
+						""
+					]
+				]
+			],
+			[
+				48400,
+				[
+					[
+						"youCannotBeatUsText",
+						"to the",
+						""
+					]
+				]
+			],
+			[
+				48700,
+				[
+					[
+						"youCannotBeatUsText",
+						"to the space",
+						""
+					]
+				]
+			],
+			[
+				49000,
+				[
+					[
+						"youCannotBeatUsText",
+						"to the spacetime",
+						""
+					]
+				]
+			],
+			[
+				49300,
+				[
+					[
+						"youCannotBeatUsText",
+						"to the spacetime con",
+						""
+					]
+				]
+			],
+			[
+				49500,
+				[
+					[
+						"youCannotBeatUsText",
+						"to the spacetime contin",
+						""
+					]
+				]
+			],
+			[
+				49600,
+				[
+					[
+						"youCannotBeatUsText",
+						"to the spacetime continu",
+						""
+					]
+				]
+			],
+			[
+				49700,
+				[
+					[
+						"youCannotBeatUsText",
+						"to the spacetime continuum",
+						""
+					]
+				]
+			],
+			[
+				50000,
+				[
+					[
+						"youCannotBeatUsText",
+						"to the spacetime continuum en",
+						""
+					]
+				]
+			],
+			[
+				50300,
+				[
+					[
+						"youCannotBeatUsText",
+						"to the spacetime continuum entire",
+						""
+					]
+				]
+			],
+			[
+				50600,
+				[
+					[
+						"youCannotBeatUsText",
+						"to the spacetime continuum entirely.",
+						""
+					]
+				]
+			],
+			[
+				51200,
+				[
+					[
+						"youCannotBeatUsText",
+						" ",
+						""
+					]
+				]
+			]
+		]
+	}
+}

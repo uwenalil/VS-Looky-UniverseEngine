@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="MemesForever29.png">
+<SubTexture name="MemesForever29 down0000" x="325" y="503" width="373" height="422" frameX="-83" frameY="-37" frameWidth="513" frameHeight="486" />
+<SubTexture name="MemesForever29 idle0000" x="0" y="503" width="325" height="451" frameX="-51" frameY="-43" frameWidth="462" frameHeight="540" />
+<SubTexture name="MemesForever29 left0000" x="295" y="0" width="356" height="472" frameX="-48" frameY="-10" frameWidth="487" frameHeight="512" />
+<SubTexture name="MemesForever29 right0000" x="0" y="0" width="295" height="503" frameX="-91" frameY="-52" frameWidth="432" frameHeight="577" />
+<SubTexture name="MemesForever29 up0000" x="651" y="0" width="320" height="453" frameX="-71" frameY="-36" frameWidth="459" frameHeight="543" />
+</TextureAtlas>

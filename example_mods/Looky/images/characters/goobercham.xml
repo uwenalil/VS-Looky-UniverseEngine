@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="goobercham.png">
+<SubTexture name="goobercham idle0000" x="548" y="1005" width="181" height="247" frameX="-227" frameY="-369" frameWidth="619" frameHeight="619" />
+<SubTexture name="goobercham idle0001" x="186" y="1005" width="181" height="338" frameX="-227" frameY="-276" frameWidth="619" frameHeight="619" />
+<SubTexture name="goobercham idle0002" x="1328" y="0" width="181" height="393" frameX="-227" frameY="-220" frameWidth="619" frameHeight="619" />
+<SubTexture name="goobercham idle0003" x="548" y="0" width="181" height="407" frameX="-227" frameY="-205" frameWidth="619" frameHeight="619" />
+<SubTexture name="goobercham singDOWN0000" x="367" y="1005" width="181" height="294" frameX="-227" frameY="-321" frameWidth="619" frameHeight="619" />
+<SubTexture name="goobercham singDOWN0001" x="1328" y="393" width="181" height="385" frameX="-227" frameY="-228" frameWidth="619" frameHeight="619" />
+<SubTexture name="goobercham singDOWN0002" x="729" y="0" width="181" height="407" frameX="-227" frameY="-205" frameWidth="619" frameHeight="619" />
+<SubTexture name="goobercham singLEFT0000" x="910" y="0" width="237" height="407" frameX="-171" frameY="-205" frameWidth="619" frameHeight="619" />
+<SubTexture name="goobercham singLEFT0001" x="0" y="598" width="197" height="407" frameX="-211" frameY="-205" frameWidth="619" frameHeight="619" />
+<SubTexture name="goobercham singLEFT0002" x="197" y="598" width="181" height="407" frameX="-227" frameY="-205" frameWidth="619" frameHeight="619" />
+<SubTexture name="goobercham miss0000" x="0" y="0" width="186" height="598" frameX="-222" frameY="-11" frameWidth="619" frameHeight="619" />
+<SubTexture name="goobercham miss0001" x="0" y="1005" width="186" height="370" frameX="-222" frameY="-243" frameWidth="619" frameHeight="619" />
+<SubTexture name="goobercham miss0002" x="378" y="598" width="186" height="407" frameX="-222" frameY="-205" frameWidth="619" frameHeight="619" />
+<SubTexture name="goobercham singRIGHT0000" x="564" y="598" width="236" height="407" frameX="-227" frameY="-205" frameWidth="619" frameHeight="619" />
+<SubTexture name="goobercham singRIGHT0001" x="800" y="598" width="198" height="407" frameX="-227" frameY="-205" frameWidth="619" frameHeight="619" />
+<SubTexture name="goobercham singRIGHT0002" x="1147" y="0" width="181" height="407" frameX="-227" frameY="-205" frameWidth="619" frameHeight="619" />
+<SubTexture name="goobercham singUP0000" x="186" y="0" width="181" height="520" frameX="-227" frameY="-91" frameWidth="619" frameHeight="619" />
+<SubTexture name="goobercham singUP0001" x="367" y="0" width="181" height="431" frameX="-227" frameY="-181" frameWidth="619" frameHeight="619" />
+<SubTexture name="goobercham singUP0002" x="1147" y="407" width="181" height="407" frameX="-227" frameY="-205" frameWidth="619" frameHeight="619" />
+</TextureAtlas>

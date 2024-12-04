@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Hooker.png">
+<SubTexture name="Hooker right0000" x="342" y="0" width="73" height="240" frameX="-167" frameY="0" frameWidth="240" frameHeight="240" />
+<SubTexture name="Hooker left0000" x="240" y="0" width="102" height="240" frameX="0" frameY="0" frameWidth="240" frameHeight="240" />
+<SubTexture name="Hooker down0000" x="0" y="240" width="240" height="126" frameX="0" frameY="-114" frameWidth="240" frameHeight="240" />
+<SubTexture name="Hooker idle0000" x="0" y="0" width="240" height="240" frameX="0" frameY="0" frameWidth="240" frameHeight="240" />
+<SubTexture name="Hooker up0000" x="415" y="0" width="240" height="114" frameX="0" frameY="0" frameWidth="240" frameHeight="240" />
+</TextureAtlas>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bfFront.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="L0000" x="1" y="1" width="430" height="504" frameX="0" frameY="-14" frameWidth="430" frameHeight="521"/>
+	<SubTexture name="L0001" x="1" y="1" width="430" height="504" frameX="0" frameY="-14" frameWidth="430" frameHeight="521"/>
+	<SubTexture name="L0002" x="432" y="1" width="430" height="506" frameX="0" frameY="-14" frameWidth="430" frameHeight="521"/>
+	<SubTexture name="L0003" x="432" y="1" width="430" height="506" frameX="0" frameY="-14" frameWidth="430" frameHeight="521"/>
+	<SubTexture name="L0004" x="863" y="1" width="420" height="516" frameX="-6" frameY="-5" frameWidth="430" frameHeight="521"/>
+	<SubTexture name="L0005" x="863" y="1" width="420" height="516" frameX="-6" frameY="-5" frameWidth="430" frameHeight="521"/>
+	<SubTexture name="L0006" x="1284" y="1" width="412" height="521" frameX="-10" frameY="0" frameWidth="430" frameHeight="521"/>
+	<SubTexture name="L0007" x="1284" y="1" width="412" height="521" frameX="-10" frameY="0" frameWidth="430" frameHeight="521"/>
+	<SubTexture name="L0008" x="1" y="523" width="413" height="521" frameX="-10" frameY="0" frameWidth="430" frameHeight="521"/>
+	<SubTexture name="L0009" x="1" y="523" width="413" height="521" frameX="-10" frameY="0" frameWidth="430" frameHeight="521"/>
+	<SubTexture name="L0010" x="1" y="523" width="413" height="521" frameX="-10" frameY="0" frameWidth="430" frameHeight="521"/>
+	<SubTexture name="L0011" x="1" y="523" width="413" height="521" frameX="-10" frameY="0" frameWidth="430" frameHeight="521"/>
+	<SubTexture name="L0012" x="1" y="523" width="413" height="521" frameX="-10" frameY="0" frameWidth="430" frameHeight="521"/>
+	<SubTexture name="L0013" x="1" y="523" width="413" height="521" frameX="-10" frameY="0" frameWidth="430" frameHeight="521"/>
+</TextureAtlas>

@@ -1,0 +1,6 @@
+Make lyrics with icon appear on screen
+Color must be be in HEX value!
+Color Example: 69fff0
+
+Value 1: The lyrics
+Value 2: Color (Default is White)

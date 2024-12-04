@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Spooklads.png">
+	<!-- Created with Adobe Animate version 22.0.2.168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Dittocopycat0000" x="3" y="3" width="243" height="291"/>
+	<SubTexture name="Pomkin0000" x="249" y="3" width="339" height="300"/>
+	<SubTexture name="Shit0000" x="591" y="3" width="271" height="305"/>
+	<SubTexture name="coffee mf0000" x="3" y="311" width="296" height="250"/>
+	<SubTexture name="stick0000" x="302" y="311" width="212" height="47"/>
+</TextureAtlas>

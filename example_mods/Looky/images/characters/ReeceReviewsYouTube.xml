@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ReeceReviewsYouTube.png">
+<SubTexture name="ReeceReviewsYouTube right0000" x="375" y="0" width="320" height="296" frameX="-67" frameY="-85" frameWidth="404" frameHeight="392" />
+<SubTexture name="ReeceReviewsYouTube left0000" x="0" y="303" width="379" height="296" frameX="-8" frameY="-85" frameWidth="404" frameHeight="392" />
+<SubTexture name="ReeceReviewsYouTube down0000" x="695" y="0" width="320" height="296" frameX="-67" frameY="-85" frameWidth="404" frameHeight="392" />
+<SubTexture name="ReeceReviewsYouTube up0000" x="0" y="0" width="375" height="303" frameX="-13" frameY="-78" frameWidth="404" frameHeight="392" />
+<SubTexture name="ReeceReviewsYouTube idle0000" x="695" y="296" width="320" height="296" frameX="-67" frameY="-85" frameWidth="404" frameHeight="392" />
+</TextureAtlas>

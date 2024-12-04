@@ -1,0 +1,113 @@
+{
+	"storyName": "Get out you're not supposed to be here unless you're modding",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Insanity",
+			"lastdaym",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"THISSUCKSASS",
+			"normalkooky",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Terminated",
+			"sponge",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Kawaii",
+			"angrybaker",
+			[
+				0,
+				255,
+				0
+			]
+		],
+		[
+			"odd-one",
+			"michael",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"grounded",
+			"sponge",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"trichael",
+			"bakerexe",
+			[
+				0,
+				155,
+				0
+			]
+		],
+		[
+			"google",
+			"sponge",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"shut-up",
+			"realspo",
+			[
+				255,
+				255,
+				80
+			]
+		],
+		[
+			"christmas-cheer",
+			"sponge",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
+}

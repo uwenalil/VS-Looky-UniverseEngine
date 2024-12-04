@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Suicide Idle"
+		},
+		{
+			"offsets": [
+				144,
+				59
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Suicide Left"
+		},
+		{
+			"offsets": [
+				82,
+				-61
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Suicide Down"
+		},
+		{
+			"offsets": [
+				-16,
+				80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Suicide Up"
+		},
+		{
+			"offsets": [
+				2,
+				56
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Suicide Rigth"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mickeyUS2",
+	"position": [
+		-50,
+		20
+	],
+	"healthicon": "mickeyInsane",
+	"flip_x": false,
+	"healthbar_colors": [
+		70,
+		73,
+		69
+	],
+	"camera_position": [
+		-50,
+		100
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

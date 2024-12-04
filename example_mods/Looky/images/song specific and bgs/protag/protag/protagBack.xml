@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="protagBack.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Protaggg0000" x="2" y="2" width="1047" height="1268" frameX="0" frameY="-59" frameWidth="1047" frameHeight="1334"/>
+	<SubTexture name="Protaggg0001" x="2" y="2" width="1047" height="1268" frameX="0" frameY="-59" frameWidth="1047" frameHeight="1334"/>
+	<SubTexture name="Protaggg0002" x="1051" y="2" width="1000" height="1277" frameX="-27" frameY="-55" frameWidth="1047" frameHeight="1334"/>
+	<SubTexture name="Protaggg0003" x="1051" y="2" width="1000" height="1277" frameX="-27" frameY="-55" frameWidth="1047" frameHeight="1334"/>
+	<SubTexture name="Protaggg0004" x="2053" y="2" width="982" height="1314" frameX="-37" frameY="-20" frameWidth="1047" frameHeight="1334"/>
+	<SubTexture name="Protaggg0005" x="2053" y="2" width="982" height="1314" frameX="-37" frameY="-20" frameWidth="1047" frameHeight="1334"/>
+	<SubTexture name="Protaggg0006" x="3037" y="2" width="982" height="1331" frameX="-37" frameY="-3" frameWidth="1047" frameHeight="1334"/>
+	<SubTexture name="Protaggg0007" x="3037" y="2" width="982" height="1331" frameX="-37" frameY="-3" frameWidth="1047" frameHeight="1334"/>
+	<SubTexture name="Protaggg0008" x="2" y="1335" width="982" height="1334" frameX="-37" frameY="0" frameWidth="1047" frameHeight="1334"/>
+	<SubTexture name="Protaggg0009" x="2" y="1335" width="982" height="1334" frameX="-37" frameY="0" frameWidth="1047" frameHeight="1334"/>
+	<SubTexture name="Protaggg0010" x="2" y="1335" width="982" height="1334" frameX="-37" frameY="0" frameWidth="1047" frameHeight="1334"/>
+	<SubTexture name="Protaggg0011" x="2" y="1335" width="982" height="1334" frameX="-37" frameY="0" frameWidth="1047" frameHeight="1334"/>
+	<SubTexture name="Protaggg0012" x="2" y="1335" width="982" height="1334" frameX="-37" frameY="0" frameWidth="1047" frameHeight="1334"/>
+	<SubTexture name="Protaggg0013" x="2" y="1335" width="982" height="1334" frameX="-37" frameY="0" frameWidth="1047" frameHeight="1334"/>
+</TextureAtlas>

@@ -1,0 +1,56 @@
+{
+	"song": {
+		"events": [
+			[
+				14400,
+				[
+					[
+						"Play Animation",
+						"1",
+						"BF"
+					]
+				]
+			],
+			[
+				15075,
+				[
+					[
+						"Play Animation",
+						"2",
+						"BF"
+					]
+				]
+			],
+			[
+				16200,
+				[
+					[
+						"Play Animation",
+						"3",
+						"BF"
+					]
+				]
+			],
+			[
+				18000,
+				[
+					[
+						"Play Animation",
+						"4",
+						"BF"
+					]
+				]
+			],
+			[
+				100500,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bsexfalt"
+					]
+				]
+			]
+		]
+	}
+}

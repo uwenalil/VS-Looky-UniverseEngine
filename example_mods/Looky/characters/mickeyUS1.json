@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "smiler mouse idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				98,
+				157
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "smiler mouse left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				33,
+				-45
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "smiler mouse down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				113,
+				129
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "smiler mouse up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				22,
+				66
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "smiler mouse rigth",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mickeyUS1",
+	"position": [
+		10,
+		90
+	],
+	"healthicon": "mickeyInsane",
+	"flip_x": false,
+	"healthbar_colors": [
+		70,
+		73,
+		69
+	],
+	"camera_position": [
+		-150,
+		50
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

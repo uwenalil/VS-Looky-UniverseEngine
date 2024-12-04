@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="LookyPixel.png">
+<SubTexture name="LookyPixel idle0000" x="0" y="0" width="200" height="190" frameX="0" frameY="-60" frameWidth="200" frameHeight="250" />
+<SubTexture name="LookyPixel right0000" x="200" y="0" width="200" height="190" frameX="0" frameY="-60" frameWidth="200" frameHeight="250" />
+<SubTexture name="LookyPixel up0000" x="0" y="190" width="200" height="190" frameX="0" frameY="-60" frameWidth="200" frameHeight="250" />
+<SubTexture name="LookyPixel left0000" x="200" y="190" width="200" height="190" frameX="0" frameY="-60" frameWidth="200" frameHeight="250" />
+<SubTexture name="LookyPixel down0000" x="400" y="0" width="200" height="190" frameX="0" frameY="-60" frameWidth="200" frameHeight="250" />
+<SubTexture name="LookyPixel hey0000" x="400" y="190" width="19" height="15" frameX="-3" frameY="-2" frameWidth="25" frameHeight="20" />
+</TextureAtlas>

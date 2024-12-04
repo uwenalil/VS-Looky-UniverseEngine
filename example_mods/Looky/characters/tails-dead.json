@@ -1,0 +1,56 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "deadLoop",
+			"fps": 15,
+			"name": "dead",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "deadConfirm",
+			"fps": 15,
+			"name": "dead",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-231
+			],
+			"anim": "firstDeath",
+			"fps": 15,
+			"name": "death",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/TailsDead",
+	"position": [
+		310,
+		290
+	],
+	"healthicon": "bf-pixel",
+	"flip_x": true,
+	"healthbar_colors": [
+		123,
+		214,
+		246
+	],
+	"camera_position": [
+		166,
+		-140
+	],
+	"sing_duration": 4,
+	"scale": 6
+}

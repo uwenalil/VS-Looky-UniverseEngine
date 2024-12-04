@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="retry.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="enter0000" x="2" y="2" width="720" height="310"/>
+	<SubTexture name="loop0000" x="2" y="314" width="515" height="98" frameX="0" frameY="-2" frameWidth="515" frameHeight="100"/>
+	<SubTexture name="loop0001" x="2" y="414" width="514" height="99" frameX="0" frameY="-1" frameWidth="515" frameHeight="100"/>
+	<SubTexture name="loop0002" x="2" y="515" width="514" height="99" frameX="0" frameY="-1" frameWidth="515" frameHeight="100"/>
+	<SubTexture name="loop0003" x="2" y="616" width="511" height="99" frameX="-1" frameY="-1" frameWidth="515" frameHeight="100"/>
+	<SubTexture name="loop0004" x="2" y="717" width="512" height="96" frameX="-1" frameY="-2" frameWidth="515" frameHeight="100"/>
+	<SubTexture name="loop0005" x="2" y="815" width="510" height="100" frameX="-2" frameY="0" frameWidth="515" frameHeight="100"/>
+	<SubTexture name="loop0006" x="2" y="917" width="510" height="99" frameX="-1" frameY="-1" frameWidth="515" frameHeight="100"/>
+</TextureAtlas>

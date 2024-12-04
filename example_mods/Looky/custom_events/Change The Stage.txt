@@ -1,0 +1,6 @@
+Value 1: New Stages Name, Snap Changes
+Value 2: X offset, Y offset
+
+Snapping changes would be just,
+should the cam zoom change instantly.
+the default is 'false'.

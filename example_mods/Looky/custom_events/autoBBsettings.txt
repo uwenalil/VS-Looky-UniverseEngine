@@ -1,0 +1,5 @@
+If ur lazy put this event lol!
+
+Value 1: Toggle on/off (true/false)
+
+Value 2: Every x beat (e.g 2 for every other beat)

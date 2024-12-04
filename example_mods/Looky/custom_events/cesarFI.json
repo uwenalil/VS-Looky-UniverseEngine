@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-66,
+				22
+			],
+			"anim": "singUPmiss",
+			"fps": 25,
+			"name": "MISS UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-34,
+				-12
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "MISS DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-39,
+				-10
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "MISS LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-52,
+				15
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "MISS RIGHT",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-66,
+				23
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "MISS UP",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-66,
+				24
+			],
+			"anim": "deathLoop",
+			"fps": 25,
+			"name": "MISS UP",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-66,
+				23
+			],
+			"anim": "firstDeath",
+			"fps": 25,
+			"name": "MISS UP",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-46,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "RIGHT"
+		},
+		{
+			"offsets": [
+				-27,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DOWN"
+		},
+		{
+			"offsets": [
+				-54,
+				32
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "UP"
+		},
+		{
+			"offsets": [
+				-17,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "LEFT"
+		},
+		{
+			"offsets": [
+				-58,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "cesartalk",
+			"indices": [],
+			"name": "cesartalk"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-25,
+				1
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "IDLE",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/cesar",
+	"position": [
+		-140,
+		120
+	],
+	"healthicon": "cesar",
+	"flip_x": true,
+	"healthbar_colors": [
+		25,
+		25,
+		25
+	],
+	"camera_position": [
+		200,
+		-20
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

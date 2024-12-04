@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="backTorch.png"><SubTexture name="idle0000" x="1123" y="0" width="1126" height="69" frameX="-717" frameY="-475" frameWidth="2560" frameHeight="1600" />
+<SubTexture name="idle0001" x="0" y="135" width="1102" height="62" frameX="-729" frameY="-481" frameWidth="2560" frameHeight="1600" />
+<SubTexture name="idle0002" x="1113" y="70" width="1110" height="64" frameX="-725" frameY="-479" frameWidth="2560" frameHeight="1600" />
+<SubTexture name="idle0003" x="0" y="70" width="1113" height="65" frameX="-723" frameY="-478" frameWidth="2560" frameHeight="1600" />
+<SubTexture name="idle0004" x="0" y="0" width="1123" height="70" frameX="-718" frameY="-474" frameWidth="2560" frameHeight="1600" />
+<SubTexture name="idle0005" x="1102" y="135" width="1131" height="62" frameX="-714" frameY="-481" frameWidth="2560" frameHeight="1600" />
+</TextureAtlas>

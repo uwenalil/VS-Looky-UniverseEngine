@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Pillars.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pillar first0000" x="2" y="2" width="0" height="0" frameX="-240" frameY="-1163" frameWidth="480" frameHeight="2000"/>
+	<SubTexture name="pillar first0001" x="5" y="2" width="480" height="2000"/>
+	<SubTexture name="pillar first0002" x="488" y="2" width="480" height="2000"/>
+	<SubTexture name="pillar first0003" x="971" y="2" width="480" height="2000"/>
+	<SubTexture name="pillar first0004" x="1454" y="2" width="480" height="2000"/>
+	<SubTexture name="pillar first0005" x="1937" y="2" width="480" height="2000"/>
+	<SubTexture name="pillar first0006" x="2420" y="2" width="480" height="2000"/>
+	<SubTexture name="pillar first0007" x="2903" y="2" width="480" height="2000"/>
+	<SubTexture name="pillar first0008" x="3386" y="2" width="480" height="2000"/>
+	<SubTexture name="pillar first0009" x="3869" y="2" width="480" height="2000"/>
+	<SubTexture name="pillar first0010" x="4352" y="2" width="480" height="2000"/>
+	<SubTexture name="pillar first0011" x="4835" y="2" width="480" height="2000"/>
+	<SubTexture name="pillar last0000" x="4835" y="2" width="480" height="2000"/>
+	<SubTexture name="pillar last0001" x="4352" y="2" width="480" height="2000"/>
+	<SubTexture name="pillar last0002" x="3869" y="2" width="480" height="2000"/>
+	<SubTexture name="pillar last0003" x="3386" y="2" width="480" height="2000"/>
+	<SubTexture name="pillar last0004" x="2903" y="2" width="480" height="2000"/>
+	<SubTexture name="pillar last0005" x="2420" y="2" width="480" height="2000"/>
+	<SubTexture name="pillar last0006" x="1937" y="2" width="480" height="2000"/>
+	<SubTexture name="pillar last0007" x="1454" y="2" width="480" height="2000"/>
+	<SubTexture name="pillar last0008" x="971" y="2" width="480" height="2000"/>
+	<SubTexture name="pillar last0009" x="488" y="2" width="480" height="2000"/>
+	<SubTexture name="pillar last0010" x="5" y="2" width="480" height="2000"/>
+	<SubTexture name="pillar last0011" x="2" y="2" width="0" height="0" frameX="-240" frameY="-1163" frameWidth="480" frameHeight="2000"/>
+	<SubTexture name="pillar loop0000" x="5318" y="2" width="480" height="2000"/>
+	<SubTexture name="pillar loop0001" x="5801" y="2" width="480" height="2000"/>
+	<SubTexture name="pillar loop0002" x="6284" y="2" width="480" height="2000"/>
+	<SubTexture name="pillar loop0003" x="6767" y="2" width="480" height="2000"/>
+	<SubTexture name="pillar loop0004" x="7250" y="2" width="480" height="2000"/>
+	<SubTexture name="pillar loop0005" x="2" y="2005" width="480" height="2000"/>
+	<SubTexture name="pillar loop0006" x="485" y="2005" width="480" height="2000"/>
+	<SubTexture name="pillar loop0007" x="968" y="2005" width="480" height="2000"/>
+	<SubTexture name="pillar loop0008" x="1451" y="2005" width="480" height="2000"/>
+	<SubTexture name="pillar loop0009" x="1934" y="2005" width="480" height="2000"/>
+	<SubTexture name="pillar loop0010" x="2417" y="2005" width="480" height="2000"/>
+	<SubTexture name="pillar loop0011" x="2900" y="2005" width="480" height="2000"/>
+	<SubTexture name="pillar loop0012" x="3383" y="2005" width="480" height="2000"/>
+	<SubTexture name="pillar loop0013" x="3866" y="2005" width="480" height="2000"/>
+	<SubTexture name="pillar loop0014" x="4349" y="2005" width="480" height="2000"/>
+	<SubTexture name="pillar loop0015" x="4832" y="2005" width="480" height="2000"/>
+	<SubTexture name="pillar loop0016" x="5315" y="2005" width="480" height="2000"/>
+	<SubTexture name="pillar loop0017" x="5798" y="2005" width="480" height="2000"/>
+	<SubTexture name="pillar loop0018" x="6281" y="2005" width="480" height="2000"/>
+	<SubTexture name="pillar loop0019" x="6764" y="2005" width="480" height="2000"/>
+	<SubTexture name="pillar loop0020" x="7247" y="2005" width="480" height="2000"/>
+</TextureAtlas>

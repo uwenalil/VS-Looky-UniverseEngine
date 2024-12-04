@@ -1,0 +1,41 @@
+{
+	"storyName": "please stop pronouncing my name incorrectly :(",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "cham",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Camo",
+			"cham",
+			[
+				0,
+				255,
+				120
+			]
+		],
+		[
+			"wife-whenever",
+			"cham",
+			[
+				0,
+				255,
+				120
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Cham",
+	"hiddenUntilUnlocked": false
+}

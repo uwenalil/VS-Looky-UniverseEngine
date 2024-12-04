@@ -1,0 +1,34 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"loop": true,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "egghead idle"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/egghead",
+	"position": [
+		290,
+		240
+	],
+	"healthicon": "senpai-pixel",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		170,
+		111
+	],
+	"camera_position": [
+		0,
+		-330
+	],
+	"sing_duration": 4,
+	"scale": 6
+}

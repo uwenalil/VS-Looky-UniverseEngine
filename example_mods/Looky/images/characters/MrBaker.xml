@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="MrBaker.png">
+<SubTexture name="MrBaker up0000" x="567" y="859" width="841" height="755" frameX="-359" frameY="-62" frameWidth="1493" frameHeight="1160" />
+<SubTexture name="MrBaker right0000" x="0" y="859" width="567" height="772" frameX="-838" frameY="-186" frameWidth="1493" frameHeight="1160" />
+<SubTexture name="MrBaker left0000" x="938" y="0" width="817" height="821" frameX="-100" frameY="-183" frameWidth="1493" frameHeight="1160" />
+<SubTexture name="MrBaker idle0000" x="0" y="0" width="938" height="859" frameX="-298" frameY="-184" frameWidth="1493" frameHeight="1160" />
+<SubTexture name="MrBaker down0000" x="1755" y="0" width="840" height="650" frameX="-377" frameY="-443" frameWidth="1493" frameHeight="1160" />
+</TextureAtlas>

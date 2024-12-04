@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Kooky3D.png">
+<SubTexture name="Kooky3D up0000" x="0" y="0" width="236" height="553" frameX="-198" frameY="-66" frameWidth="619" frameHeight="619" />
+<SubTexture name="Kooky3D right0000" x="236" y="0" width="430" height="469" frameX="-115" frameY="-146" frameWidth="619" frameHeight="619" />
+<SubTexture name="Kooky3D left0000" x="666" y="0" width="414" height="458" frameX="-39" frameY="-154" frameWidth="619" frameHeight="619" />
+<SubTexture name="Kooky3D down0000" x="301" y="553" width="331" height="308" frameX="-170" frameY="-305" frameWidth="619" frameHeight="619" />
+<SubTexture name="Kooky3D idle0000" x="0" y="553" width="301" height="452" frameX="-158" frameY="-152" frameWidth="619" frameHeight="619" />
+</TextureAtlas>

@@ -1,0 +1,9 @@
+Value 1: Set whatever the text you want to be.
+
+And to remove that black bar, just make it blank but add a space.
+From '' to ' '.
+
+Check out the settings through the
+LUA file on how to customize it!
+
+- Herox from April 10th, 2024

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BakerBot3000.png">
+<SubTexture name="BakerBot3000 idle0000" x="0" y="0" width="303" height="479" frameX="-183" frameY="-138" frameWidth="619" frameHeight="619" />
+<SubTexture name="BakerBot3000 up0000" x="303" y="0" width="303" height="479" frameX="-175" frameY="-138" frameWidth="619" frameHeight="619" />
+<SubTexture name="BakerBot3000 right0000" x="606" y="0" width="367" height="475" frameX="-188" frameY="-142" frameWidth="619" frameHeight="619" />
+<SubTexture name="BakerBot3000 down0000" x="426" y="479" width="315" height="405" frameX="-173" frameY="-212" frameWidth="619" frameHeight="619" />
+<SubTexture name="BakerBot3000 left0000" x="0" y="479" width="426" height="439" frameX="-28" frameY="-178" frameWidth="619" frameHeight="619" />
+</TextureAtlas>

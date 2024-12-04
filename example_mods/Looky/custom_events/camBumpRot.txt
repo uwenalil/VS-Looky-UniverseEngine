@@ -1,0 +1,2 @@
+V1: Zoom Value
+V2: Rot Value

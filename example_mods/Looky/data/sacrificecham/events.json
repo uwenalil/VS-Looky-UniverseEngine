@@ -1,0 +1,21 @@
+{
+	"song": {
+		"events": [
+			[
+				77605.2631578947,
+				[
+					[
+						"Change Character",
+						"bf",
+						"lad"
+					],
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			]
+		]
+	}
+}

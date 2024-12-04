@@ -1,0 +1,3 @@
+Minor static
+value1: Opacity
+value2: Duration

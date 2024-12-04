@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Cham.png">
+<SubTexture name="Cham idle0000" x="0" y="0" width="400" height="400" frameX="0" frameY="0" frameWidth="400" frameHeight="400" />
+<SubTexture name="Cham right0000" x="400" y="0" width="400" height="400" frameX="0" frameY="0" frameWidth="400" frameHeight="400" />
+<SubTexture name="Cham up0000" x="0" y="400" width="400" height="400" frameX="0" frameY="0" frameWidth="400" frameHeight="400" />
+<SubTexture name="Cham down0000" x="400" y="400" width="400" height="400" frameX="0" frameY="0" frameWidth="400" frameHeight="400" />
+<SubTexture name="Cham left0000" x="800" y="0" width="400" height="400" frameX="0" frameY="0" frameWidth="400" frameHeight="400" />
+</TextureAtlas>

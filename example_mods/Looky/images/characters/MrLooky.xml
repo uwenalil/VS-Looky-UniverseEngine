@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="MrLooky.png">
+<SubTexture name="MrLooky up0000" x="0" y="0" width="916" height="1106" frameX="-187" frameY="-54" frameWidth="1319" frameHeight="1160" />
+<SubTexture name="MrLooky right0000" x="0" y="1106" width="1134" height="931" frameX="-181" frameY="-229" frameWidth="1319" frameHeight="1160" />
+<SubTexture name="MrLooky left0000" x="1854" y="0" width="869" height="953" frameX="-61" frameY="-207" frameWidth="1319" frameHeight="1160" />
+<SubTexture name="MrLooky idle0000" x="916" y="0" width="938" height="1017" frameX="-206" frameY="-143" frameWidth="1319" frameHeight="1160" />
+<SubTexture name="MrLooky down0000" x="1134" y="1106" width="1161" height="883" frameX="-33" frameY="-277" frameWidth="1319" frameHeight="1160" />
+</TextureAtlas>

@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="WorriedChamV2.png">
+<SubTexture name="WorriedChamV2 up0000" x="0" y="0" width="435" height="703" frameX="-235" frameY="-277" frameWidth="980" frameHeight="980" />
+<SubTexture name="WorriedChamV2 right0000" x="918" y="0" width="497" height="621" frameX="-284" frameY="-359" frameWidth="980" frameHeight="980" />
+<SubTexture name="WorriedChamV2 left0000" x="542" y="703" width="514" height="578" frameX="-146" frameY="-402" frameWidth="980" frameHeight="980" />
+<SubTexture name="WorriedChamV2 idle0000" x="435" y="0" width="483" height="631" frameX="-219" frameY="-349" frameWidth="980" frameHeight="980" />
+<SubTexture name="WorriedChamV2 down0000" x="0" y="703" width="542" height="580" frameX="-186" frameY="-400" frameWidth="980" frameHeight="980" />
+</TextureAtlas>

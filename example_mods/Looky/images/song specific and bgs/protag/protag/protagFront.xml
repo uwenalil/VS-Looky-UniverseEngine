@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="protagFront.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SEXOOO0000" x="2" y="2" width="586" height="708" frameX="0" frameY="-10" frameWidth="586" frameHeight="718"/>
+	<SubTexture name="SEXOOO0001" x="2" y="2" width="586" height="708" frameX="0" frameY="-10" frameWidth="586" frameHeight="718"/>
+	<SubTexture name="SEXOOO0002" x="590" y="2" width="581" height="711" frameX="-1" frameY="-7" frameWidth="586" frameHeight="718"/>
+	<SubTexture name="SEXOOO0003" x="590" y="2" width="581" height="711" frameX="-1" frameY="-7" frameWidth="586" frameHeight="718"/>
+	<SubTexture name="SEXOOO0004" x="1173" y="2" width="574" height="716" frameX="0" frameY="-2" frameWidth="586" frameHeight="718"/>
+	<SubTexture name="SEXOOO0005" x="1173" y="2" width="574" height="716" frameX="0" frameY="-2" frameWidth="586" frameHeight="718"/>
+	<SubTexture name="SEXOOO0006" x="2" y="720" width="574" height="718" frameX="0" frameY="0" frameWidth="586" frameHeight="718"/>
+	<SubTexture name="SEXOOO0007" x="2" y="720" width="574" height="718" frameX="0" frameY="0" frameWidth="586" frameHeight="718"/>
+	<SubTexture name="SEXOOO0008" x="2" y="720" width="574" height="718" frameX="0" frameY="0" frameWidth="586" frameHeight="718"/>
+	<SubTexture name="SEXOOO0009" x="2" y="720" width="574" height="718" frameX="0" frameY="0" frameWidth="586" frameHeight="718"/>
+	<SubTexture name="SEXOOO0010" x="2" y="720" width="574" height="718" frameX="0" frameY="0" frameWidth="586" frameHeight="718"/>
+	<SubTexture name="SEXOOO0011" x="2" y="720" width="574" height="718" frameX="0" frameY="0" frameWidth="586" frameHeight="718"/>
+	<SubTexture name="SEXOOO0012" x="2" y="720" width="574" height="718" frameX="0" frameY="0" frameWidth="586" frameHeight="718"/>
+	<SubTexture name="SEXOOO0013" x="2" y="720" width="574" height="718" frameX="0" frameY="0" frameWidth="586" frameHeight="718"/>
+</TextureAtlas>

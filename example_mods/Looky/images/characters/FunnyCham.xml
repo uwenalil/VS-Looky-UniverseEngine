@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="FunnyCham.png">
+<SubTexture name="FunnyCham hey0000" x="790" y="668" width="368" height="347" frameX="0" frameY="0" frameWidth="368" frameHeight="347" />
+<SubTexture name="FunnyCham idle0000" x="0" y="0" width="790" height="1062" frameX="-260" frameY="-69" frameWidth="1274" frameHeight="1131" />
+<SubTexture name="FunnyCham up0000" x="1341" y="0" width="422" height="437" frameX="-14" frameY="-7" frameWidth="440" frameHeight="453" />
+<SubTexture name="FunnyCham left0000" x="1341" y="437" width="305" height="354" frameX="-71" frameY="-33" frameWidth="400" frameHeight="400" />
+<SubTexture name="FunnyCham down0000" x="0" y="1062" width="396" height="307" frameX="0" frameY="0" frameWidth="396" frameHeight="307" />
+<SubTexture name="FunnyCham right0000" x="790" y="0" width="551" height="668" frameX="-30" frameY="-12" frameWidth="651" frameHeight="684" />
+</TextureAtlas>

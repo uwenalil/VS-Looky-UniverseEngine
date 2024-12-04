@@ -1,0 +1,20 @@
+Paths.hx (line 353)
+Note.hx (line 374)
+Note.hx (line 120)
+Note.hx (line 211)
+editors/ChartingState.hx (line 2790)
+editors/ChartingState.hx (line 2707)
+editors/ChartingState.hx (line 2274)
+editors/ChartingState.hx (line 2578)
+editors/ChartingState.hx (line 1653)
+flixel/FlxState.hx (line 203)
+flixel/FlxGame.hx (line 747)
+flixel/FlxGame.hx (line 677)
+flixel/FlxGame.hx (line 551)
+openfl/events/EventDispatcher.hx (line 402)
+openfl/display/DisplayObject.hx (line 1399)
+
+Uncaught Error: Null Object Reference
+Please report this error to the GitHub page: https://github.com/notweuz/FNF-OSEngine
+
+> Crash Handler written by: sqirra-rng

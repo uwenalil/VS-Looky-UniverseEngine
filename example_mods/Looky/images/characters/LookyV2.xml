@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="LookyV2.png">
+<SubTexture name="LookyV2 down0000" x="1511" y="0" width="755" height="639" frameX="-138" frameY="-169" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="LookyV2 idle0000" x="743" y="0" width="768" height="677" frameX="-173" frameY="-214" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="LookyV2 up0000" x="687" y="743" width="755" height="661" frameX="-105" frameY="-187" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="LookyV2 right0000" x="0" y="0" width="743" height="743" frameX="-175" frameY="-204" frameWidth="1000" frameHeight="1000" />
+<SubTexture name="LookyV2 left0000" x="0" y="743" width="687" height="662" frameX="-125" frameY="-210" frameWidth="1000" frameHeight="1000" />
+</TextureAtlas>

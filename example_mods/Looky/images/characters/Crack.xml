@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Crack.png">
+<SubTexture name="Crack idle0000" x="0" y="0" width="275" height="183" frameX="0" frameY="0" frameWidth="275" frameHeight="183" />
+<SubTexture name="Crack right0000" x="275" y="0" width="275" height="183" frameX="0" frameY="0" frameWidth="275" frameHeight="183" />
+<SubTexture name="Crack up0000" x="0" y="183" width="275" height="183" frameX="0" frameY="0" frameWidth="275" frameHeight="183" />
+<SubTexture name="Crack down0000" x="275" y="183" width="275" height="183" frameX="0" frameY="0" frameWidth="275" frameHeight="183" />
+<SubTexture name="Crack left0000" x="0" y="366" width="275" height="183" frameX="0" frameY="0" frameWidth="275" frameHeight="183" />
+</TextureAtlas>

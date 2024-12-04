@@ -1,0 +1,26 @@
+{
+	"song": {
+		"events": [
+			[
+				112615.384615385,
+				[
+					[
+						"Change Character",
+						"dad",
+						"FNAFLookyControl"
+					]
+				]
+			],
+			[
+				132923.076923077,
+				[
+					[
+						"Change Character",
+						"dad",
+						"BakerBot3000"
+					]
+				]
+			]
+		]
+	}
+}

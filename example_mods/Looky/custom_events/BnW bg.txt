@@ -1,0 +1,7 @@
+You can convert the background to black or white
+and the shadows of the characters to the opposite color
+Val1
+0 = Off
+1 = White
+2 = Black
+Event by Devel#2081

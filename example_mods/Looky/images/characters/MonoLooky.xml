@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="MonoLooky.png">
+<SubTexture name="MonoLooky up0000" x="1138" y="0" width="557" height="554" frameX="-28" frameY="-24" frameWidth="619" frameHeight="619" />
+<SubTexture name="MonoLooky down0000" x="517" y="599" width="592" height="491" frameX="-6" frameY="-114" frameWidth="619" frameHeight="619" />
+<SubTexture name="MonoLooky idle0000" x="0" y="599" width="517" height="543" frameX="-25" frameY="-43" frameWidth="619" frameHeight="619" />
+<SubTexture name="MonoLooky left0000" x="0" y="0" width="569" height="599" frameX="-37" frameY="-20" frameWidth="619" frameHeight="619" />
+<SubTexture name="MonoLooky right0000" x="569" y="0" width="569" height="599" frameX="-13" frameY="-20" frameWidth="619" frameHeight="619" />
+</TextureAtlas>

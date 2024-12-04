@@ -1,0 +1,7 @@
+Used for lyrics centered to screen
+
+Value 1 changes the text to whatever you want
+Leave it blank if you want it gone
+
+Value 2 changes the font type if necessary
+[NOT WORKING PROPERLY]

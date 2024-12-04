@@ -1,0 +1,8 @@
+Fade the UI either in or out
+
+Value 1: target,easing,leave notes
+write like this:
+0,quartInOut,true
+to skip a value, put ".", like this:
+0,.,true
+Value 2: duration

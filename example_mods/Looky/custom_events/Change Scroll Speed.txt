@@ -1,0 +1,2 @@
+Value 1: Speed
+Value 1: Transition Duration

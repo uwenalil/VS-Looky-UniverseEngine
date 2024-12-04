@@ -1,0 +1,1 @@
+Value1: How much time you have to dodge.

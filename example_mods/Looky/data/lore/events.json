@@ -1,0 +1,216 @@
+{
+	"song": {
+		"events": [
+			[
+				140454.545454545,
+				[
+					[
+						"Play Animation",
+						"ringstart",
+						"gf"
+					]
+				]
+			],
+			[
+				140727.272727273,
+				[
+					[
+						"Play Animation",
+						"ringloop",
+						"gf"
+					]
+				]
+			],
+			[
+				141818.181818182,
+				[
+					[
+						"Play Animation",
+						"ringend",
+						"gf"
+					]
+				]
+			],
+			[
+				142636.363636364,
+				[
+					[
+						"Play Animation",
+						"ringstart",
+						"gf"
+					]
+				]
+			],
+			[
+				142909.090909091,
+				[
+					[
+						"Play Animation",
+						"ringloop",
+						"gf"
+					]
+				]
+			],
+			[
+				144000,
+				[
+					[
+						"Play Animation",
+						"ringend",
+						"gf"
+					]
+				]
+			],
+			[
+				144818.181818182,
+				[
+					[
+						"Play Animation",
+						"ringstart",
+						"gf"
+					]
+				]
+			],
+			[
+				145090.909090909,
+				[
+					[
+						"Play Animation",
+						"ringloop",
+						"gf"
+					]
+				]
+			],
+			[
+				146181.818181818,
+				[
+					[
+						"Play Animation",
+						"ringend",
+						"gf"
+					]
+				]
+			],
+			[
+				147000,
+				[
+					[
+						"Play Animation",
+						"ringstart",
+						"gf"
+					]
+				]
+			],
+			[
+				147272.727272727,
+				[
+					[
+						"Play Animation",
+						"ringloop",
+						"gf"
+					]
+				]
+			],
+			[
+				148363.636363636,
+				[
+					[
+						"Play Animation",
+						"ringend",
+						"gf"
+					]
+				]
+			],
+			[
+				149181.818181818,
+				[
+					[
+						"Play Animation",
+						"ringstart",
+						"gf"
+					]
+				]
+			],
+			[
+				149454.545454545,
+				[
+					[
+						"Play Animation",
+						"ringloop",
+						"gf"
+					]
+				]
+			],
+			[
+				150545.454545454,
+				[
+					[
+						"Play Animation",
+						"ringend",
+						"gf"
+					]
+				]
+			],
+			[
+				151363.636363636,
+				[
+					[
+						"Play Animation",
+						"ringstart",
+						"gf"
+					]
+				]
+			],
+			[
+				151636.363636364,
+				[
+					[
+						"Play Animation",
+						"ringloop",
+						"gf"
+					]
+				]
+			],
+			[
+				152727.272727273,
+				[
+					[
+						"Play Animation",
+						"ringend",
+						"gf"
+					]
+				]
+			],
+			[
+				153545.454545454,
+				[
+					[
+						"Play Animation",
+						"ringstart",
+						"gf"
+					]
+				]
+			],
+			[
+				153818.181818182,
+				[
+					[
+						"Play Animation",
+						"ringloop",
+						"gf"
+					]
+				]
+			],
+			[
+				154909.090909091,
+				[
+					[
+						"Play Animation",
+						"ringend",
+						"gf"
+					]
+				]
+			]
+		]
+	}
+}

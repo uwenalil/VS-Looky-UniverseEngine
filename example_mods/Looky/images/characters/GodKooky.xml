@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="GodKooky.png">
+<SubTexture name="GodKooky up0000" x="1262" y="0" width="776" height="782" frameX="-125" frameY="-2" frameWidth="980" frameHeight="980" />
+<SubTexture name="GodKooky right0000" x="0" y="804" width="606" height="766" frameX="-363" frameY="-109" frameWidth="980" frameHeight="980" />
+<SubTexture name="GodKooky left0000" x="0" y="0" width="672" height="804" frameX="0" frameY="-65" frameWidth="980" frameHeight="980" />
+<SubTexture name="GodKooky down0000" x="606" y="804" width="566" height="586" frameX="-204" frameY="-345" frameWidth="980" frameHeight="980" />
+<SubTexture name="GodKooky idle0000" x="672" y="0" width="590" height="783" frameX="-247" frameY="-150" frameWidth="980" frameHeight="980" />
+</TextureAtlas>

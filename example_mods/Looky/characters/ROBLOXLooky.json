@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "ROBLOXLooky idle0000"
+		},
+		{
+			"offsets": [
+				-4,
+				-8
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "ROBLOXLooky left0000"
+		},
+		{
+			"offsets": [
+				0,
+				5
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "ROBLOXLooky down0000"
+		},
+		{
+			"offsets": [
+				-3,
+				10
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "ROBLOXLooky up0000"
+		},
+		{
+			"offsets": [
+				8,
+				-8
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "ROBLOXLooky right0000"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ROBLOXLooky",
+	"position": [
+		-170,
+		150
+	],
+	"healthicon": "ROBLOXLooky",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		255
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

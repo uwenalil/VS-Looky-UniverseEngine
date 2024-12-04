@@ -1,0 +1,50 @@
+{
+	"storyName": "looky is so scary pls help me",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "lookyweek3",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"insomnia",
+			"sponge",
+			[
+				0,
+				0,
+				100
+			]
+		],
+		[
+			"broken",
+			"soulcage",
+			[
+				0,
+				0,
+				33
+			]
+		],
+		[
+			"cabin-fever",
+			"alt",
+			[
+				150,
+				0,
+				80
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Dev Testing Looky"
+}

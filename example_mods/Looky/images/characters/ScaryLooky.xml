@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ScaryLooky.png">
+<SubTexture name="ScaryLooky up0000" x="1384" y="0" width="800" height="800" frameX="0" frameY="0" frameWidth="800" frameHeight="800" />
+<SubTexture name="ScaryLooky down0000" x="0" y="0" width="1384" height="1139" frameX="0" frameY="0" frameWidth="1384" frameHeight="1139" />
+<SubTexture name="ScaryLooky left0000" x="0" y="1139" width="633" height="532" frameX="0" frameY="0" frameWidth="633" frameHeight="532" />
+<SubTexture name="ScaryLooky right0000" x="1384" y="800" width="300" height="168" frameX="0" frameY="0" frameWidth="300" frameHeight="168" />
+<SubTexture name="ScaryLooky idle0000" x="633" y="1139" width="360" height="345" frameX="0" frameY="0" frameWidth="360" frameHeight="345" />
+</TextureAtlas>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="halloween_stairs.png">
+<SubTexture name="halloweem stairs0000" x="0" y="0" width="714" height="996" frameX="-1396" frameY="0" frameWidth="2114" frameHeight="1075" />
+<SubTexture name="halloweem stairs lightning strike0000" x="714" y="0" width="714" height="996" frameX="-1396" frameY="0" frameWidth="2114" frameHeight="1075" />
+<SubTexture name="halloweem stairs lightning strike0001" x="714" y="0" width="714" height="996" frameX="-1396" frameY="0" frameWidth="2114" frameHeight="1075" />
+<SubTexture name="halloweem stairs lightning strike0002" x="1428" y="0" width="714" height="996" frameX="-1396" frameY="0" frameWidth="2114" frameHeight="1075" />
+<SubTexture name="halloweem stairs lightning strike0003" x="0" y="996" width="714" height="996" frameX="-1396" frameY="0" frameWidth="2114" frameHeight="1075" />
+<SubTexture name="halloweem stairs lightning strike0004" x="714" y="996" width="714" height="996" frameX="-1396" frameY="0" frameWidth="2114" frameHeight="1075" />
+<SubTexture name="halloweem stairs lightning strike0005" x="1428" y="996" width="714" height="996" frameX="-1396" frameY="0" frameWidth="2114" frameHeight="1075" />
+<SubTexture name="halloweem stairs lightning strike0006" x="1428" y="996" width="714" height="996" frameX="-1396" frameY="0" frameWidth="2114" frameHeight="1075" />
+<SubTexture name="halloweem stairs lightning strike0007" x="1428" y="996" width="714" height="996" frameX="-1396" frameY="0" frameWidth="2114" frameHeight="1075" />
+<SubTexture name="halloweem stairs lightning strike0008" x="1428" y="996" width="714" height="996" frameX="-1396" frameY="0" frameWidth="2114" frameHeight="1075" />
+<SubTexture name="halloweem stairs lightning strike0009" x="1428" y="996" width="714" height="996" frameX="-1396" frameY="0" frameWidth="2114" frameHeight="1075" />
+<SubTexture name="halloweem stairs lightning strike0010" x="2142" y="0" width="714" height="996" frameX="-1396" frameY="0" frameWidth="2114" frameHeight="1075" />
+<SubTexture name="halloweem stairs lightning strike0011" x="2142" y="0" width="714" height="996" frameX="-1396" frameY="0" frameWidth="2114" frameHeight="1075" />
+<SubTexture name="halloweem stairs lightning strike0012" x="2142" y="0" width="714" height="996" frameX="-1396" frameY="0" frameWidth="2114" frameHeight="1075" />
+<SubTexture name="halloweem stairs lightning strike0013" x="2142" y="996" width="714" height="996" frameX="-1396" frameY="0" frameWidth="2114" frameHeight="1075" />
+<SubTexture name="halloweem stairs lightning strike0014" x="2856" y="0" width="714" height="996" frameX="-1396" frameY="0" frameWidth="2114" frameHeight="1075" />
+<SubTexture name="halloweem stairs lightning strike0015" x="2856" y="0" width="714" height="996" frameX="-1396" frameY="0" frameWidth="2114" frameHeight="1075" />
+<SubTexture name="halloweem stairs lightning strike0016" x="2856" y="0" width="714" height="996" frameX="-1396" frameY="0" frameWidth="2114" frameHeight="1075" />
+<SubTexture name="halloweem stairs lightning strike0017" x="2856" y="0" width="714" height="996" frameX="-1396" frameY="0" frameWidth="2114" frameHeight="1075" />
+<SubTexture name="halloweem stairs lightning strike0018" x="2856" y="0" width="714" height="996" frameX="-1396" frameY="0" frameWidth="2114" frameHeight="1075" />
+<SubTexture name="halloweem stairs lightning strike0019" x="2856" y="996" width="714" height="996" frameX="-1396" frameY="0" frameWidth="2114" frameHeight="1075" />
+<SubTexture name="halloweem stairs lightning strike0020" x="0" y="1992" width="714" height="996" frameX="-1396" frameY="0" frameWidth="2114" frameHeight="1075" />
+<SubTexture name="halloweem stairs lightning strike0021" x="0" y="0" width="714" height="996" frameX="-1396" frameY="0" frameWidth="2114" frameHeight="1075" />
+</TextureAtlas>

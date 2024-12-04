@@ -39,7 +39,7 @@ class MainMenuState extends MusicBeatState
 	private var camGame:FlxCamera;
 	private var camAchievement:FlxCamera;
 
-	var optionShit:Array<String> = ['story_mode', 'freeplay', 'mods', 'credits', 'options'];
+	var optionShit:Array<String> = ['story_mode', 'freeplay', 'credits', 'options'];
 
 	var arrow:FlxSprite;
 	var magenta:FlxSprite;
@@ -207,6 +207,7 @@ class MainMenuState extends MusicBeatState
 		text.scrollFactor.set();
 		add(text);
 
+		/* THIS IS NOT USED FOR UE LOOKY EDITION
 		arrow = new FlxSprite(FlxG.width / 2 + 157 + 300, 0).loadGraphic(Paths.image('noteupthingg'));
 		arrow.screenCenter(Y);
 		arrow.angle = 90;
@@ -214,8 +215,7 @@ class MainMenuState extends MusicBeatState
 		arrow.antialiasing = ClientPrefs.globalAntialiasing;
 		arrow.scrollFactor.set();
 		add(arrow);
-
-		
+		*/
 
 		// NG.core.calls.event.logEvent('swag').send();
 
@@ -280,7 +280,8 @@ class MainMenuState extends MusicBeatState
 
 			if (controls.UI_RIGHT_P)
 			{
-				MusicBeatState.switchState(new MainMenuUselessState());
+				//MusicBeatState.switchState(new MainMenuUselessState());
+				trace("used to do something, now in ue looky edition, nothing.");
 			}
 
 			var shiftMult:Int = 1;

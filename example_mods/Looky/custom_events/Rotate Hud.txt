@@ -1,0 +1,2 @@
+Value 1: HUD Angle (in degrees)
+Value 2: How long it takes for the tween to end

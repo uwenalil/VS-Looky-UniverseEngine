@@ -1,0 +1,6 @@
+This Event Sets Cameras ( camGame, camHUD, camOther ) alpha on tween
+
+Value1 = camera ( put the ones on top here )
+Value2 = alpha
+
+For (Duration, Easing) changing, use other event called "Fade Cameras Part 2"

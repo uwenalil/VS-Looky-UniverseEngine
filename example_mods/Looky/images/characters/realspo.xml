@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="realspo.png">
+<SubTexture name="realspo idle0000" x="1098" y="1616" width="502" height="365" frameX="-81" frameY="-240" frameWidth="619" frameHeight="619" />
+<SubTexture name="realspo idle0001" x="1783" y="1153" width="492" height="375" frameX="-91" frameY="-230" frameWidth="619" frameHeight="619" />
+<SubTexture name="realspo idle0002" x="1783" y="387" width="492" height="385" frameX="-91" frameY="-220" frameWidth="619" frameHeight="619" />
+<SubTexture name="realspo idle0003" x="0" y="840" width="492" height="388" frameX="-91" frameY="-217" frameWidth="619" frameHeight="619" />
+<SubTexture name="realspo singDOWN0000" x="947" y="1999" width="501" height="297" frameX="-82" frameY="-308" frameWidth="619" frameHeight="619" />
+<SubTexture name="realspo singDOWN0001" x="465" y="1999" width="482" height="324" frameX="-101" frameY="-281" frameWidth="619" frameHeight="619" />
+<SubTexture name="realspo singDOWN0002" x="0" y="1999" width="465" height="342" frameX="-118" frameY="-263" frameWidth="619" frameHeight="619" />
+<SubTexture name="realspo singDOWN0003" x="2314" y="0" width="456" height="354" frameX="-127" frameY="-251" frameWidth="619" frameHeight="619" />
+<SubTexture name="realspo singLEFT0000" x="538" y="1616" width="560" height="373" frameX="-23" frameY="-232" frameWidth="619" frameHeight="619" />
+<SubTexture name="realspo singLEFT0001" x="0" y="1616" width="538" height="383" frameX="-45" frameY="-222" frameWidth="619" frameHeight="619" />
+<SubTexture name="realspo singLEFT0002" x="984" y="1228" width="533" height="387" frameX="-50" frameY="-218" frameWidth="619" frameHeight="619" />
+<SubTexture name="realspo singLEFT0003" x="1783" y="0" width="531" height="387" frameX="-52" frameY="-218" frameWidth="619" frameHeight="619" />
+<SubTexture name="realspo singRIGHT0000" x="1600" y="1616" width="428" height="357" frameX="-155" frameY="-248" frameWidth="619" frameHeight="619" />
+<SubTexture name="realspo singRIGHT0001" x="1783" y="772" width="432" height="381" frameX="-151" frameY="-224" frameWidth="619" frameHeight="619" />
+<SubTexture name="realspo singRIGHT0002" x="853" y="398" width="432" height="388" frameX="-151" frameY="-217" frameWidth="619" frameHeight="619" />
+<SubTexture name="realspo singRIGHT0003" x="492" y="840" width="432" height="388" frameX="-151" frameY="-217" frameWidth="619" frameHeight="619" />
+<SubTexture name="realspo singUP0000" x="0" y="0" width="423" height="438" frameX="-160" frameY="-167" frameWidth="619" frameHeight="619" />
+<SubTexture name="realspo singUP0001" x="423" y="0" width="430" height="416" frameX="-153" frameY="-189" frameWidth="619" frameHeight="619" />
+<SubTexture name="realspo singUP0002" x="0" y="438" width="436" height="402" frameX="-147" frameY="-203" frameWidth="619" frameHeight="619" />
+<SubTexture name="realspo singUP0003" x="853" y="0" width="438" height="398" frameX="-145" frameY="-207" frameWidth="619" frameHeight="619" />
+<SubTexture name="realspo miss0000" x="1291" y="0" width="492" height="388" frameX="-151" frameY="-277" frameWidth="739" frameHeight="739" />
+<SubTexture name="realspo miss0001" x="1291" y="388" width="492" height="388" frameX="-151" frameY="-277" frameWidth="739" frameHeight="739" />
+<SubTexture name="realspo miss0002" x="1291" y="776" width="492" height="388" frameX="-151" frameY="-277" frameWidth="739" frameHeight="739" />
+<SubTexture name="realspo miss0003" x="0" y="1228" width="492" height="388" frameX="-151" frameY="-277" frameWidth="739" frameHeight="739" />
+<SubTexture name="realspo miss0004" x="492" y="1228" width="492" height="388" frameX="-151" frameY="-277" frameWidth="739" frameHeight="739" />
+</TextureAtlas>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="balss.png">
+<SubTexture name="balss idle0000" x="678" y="1042" width="339" height="499" frameX="-243" frameY="-58" frameWidth="808" frameHeight="594" />
+<SubTexture name="balss idle0001" x="339" y="1042" width="339" height="500" frameX="-243" frameY="-57" frameWidth="808" frameHeight="594" />
+<SubTexture name="balss idle0002" x="0" y="1042" width="339" height="504" frameX="-243" frameY="-53" frameWidth="808" frameHeight="594" />
+<SubTexture name="balss idle0003" x="1029" y="0" width="341" height="514" frameX="-241" frameY="-43" frameWidth="808" frameHeight="594" />
+<SubTexture name="balss idle0004" x="688" y="0" width="341" height="515" frameX="-241" frameY="-42" frameWidth="808" frameHeight="594" />
+<SubTexture name="balss idle0005" x="688" y="0" width="341" height="515" frameX="-241" frameY="-42" frameWidth="808" frameHeight="594" />
+<SubTexture name="balss idle0006" x="688" y="0" width="341" height="515" frameX="-241" frameY="-42" frameWidth="808" frameHeight="594" />
+<SubTexture name="balss idle0007" x="688" y="0" width="341" height="515" frameX="-241" frameY="-42" frameWidth="808" frameHeight="594" />
+<SubTexture name="balss down0000" x="351" y="1546" width="339" height="475" frameX="-243" frameY="-82" frameWidth="808" frameHeight="594" />
+<SubTexture name="balss down0001" x="1709" y="978" width="339" height="478" frameX="-243" frameY="-79" frameWidth="808" frameHeight="594" />
+<SubTexture name="balss down0002" x="1709" y="978" width="339" height="478" frameX="-243" frameY="-79" frameWidth="808" frameHeight="594" />
+<SubTexture name="balss down0003" x="1709" y="978" width="339" height="478" frameX="-243" frameY="-79" frameWidth="808" frameHeight="594" />
+<SubTexture name="balss up0000" x="0" y="0" width="343" height="531" frameX="-239" frameY="-27" frameWidth="808" frameHeight="594" />
+<SubTexture name="balss up0001" x="343" y="0" width="345" height="526" frameX="-237" frameY="-31" frameWidth="808" frameHeight="594" />
+<SubTexture name="balss up0002" x="343" y="0" width="345" height="526" frameX="-237" frameY="-31" frameWidth="808" frameHeight="594" />
+<SubTexture name="balss up0003" x="343" y="0" width="345" height="526" frameX="-237" frameY="-31" frameWidth="808" frameHeight="594" />
+<SubTexture name="balss left0000" x="714" y="531" width="376" height="509" frameX="-206" frameY="-48" frameWidth="808" frameHeight="594" />
+<SubTexture name="balss left0001" x="0" y="531" width="375" height="511" frameX="-207" frameY="-46" frameWidth="808" frameHeight="594" />
+<SubTexture name="balss left0002" x="0" y="531" width="375" height="511" frameX="-207" frameY="-46" frameWidth="808" frameHeight="594" />
+<SubTexture name="balss left0003" x="0" y="531" width="375" height="511" frameX="-207" frameY="-46" frameWidth="808" frameHeight="594" />
+<SubTexture name="balss right0000" x="375" y="531" width="339" height="510" frameX="-243" frameY="-47" frameWidth="808" frameHeight="594" />
+<SubTexture name="balss right0001" x="1370" y="0" width="339" height="509" frameX="-243" frameY="-48" frameWidth="808" frameHeight="594" />
+<SubTexture name="balss right0002" x="1370" y="0" width="339" height="509" frameX="-243" frameY="-48" frameWidth="808" frameHeight="594" />
+<SubTexture name="balss right0003" x="1370" y="0" width="339" height="509" frameX="-243" frameY="-48" frameWidth="808" frameHeight="594" />
+<SubTexture name="balss miss down0000" x="690" y="1546" width="339" height="472" frameX="-242" frameY="-85" frameWidth="807" frameHeight="626" />
+<SubTexture name="balss miss down0001" x="1029" y="1546" width="339" height="455" frameX="-242" frameY="-102" frameWidth="807" frameHeight="626" />
+<SubTexture name="balss miss down0002" x="1029" y="1546" width="339" height="455" frameX="-242" frameY="-102" frameWidth="807" frameHeight="626" />
+<SubTexture name="balss miss down0003" x="1029" y="1546" width="339" height="455" frameX="-242" frameY="-102" frameWidth="807" frameHeight="626" />
+<SubTexture name="balss miss up0000" x="1017" y="1042" width="339" height="497" frameX="-242" frameY="-60" frameWidth="807" frameHeight="626" />
+<SubTexture name="balss miss up0001" x="1370" y="509" width="339" height="507" frameX="-242" frameY="-50" frameWidth="807" frameHeight="626" />
+<SubTexture name="balss miss up0002" x="1370" y="509" width="339" height="507" frameX="-242" frameY="-50" frameWidth="807" frameHeight="626" />
+<SubTexture name="balss miss up0003" x="1370" y="509" width="339" height="507" frameX="-242" frameY="-50" frameWidth="807" frameHeight="626" />
+<SubTexture name="balss miss left0000" x="1709" y="492" width="339" height="486" frameX="-242" frameY="-71" frameWidth="807" frameHeight="626" />
+<SubTexture name="balss miss left0001" x="0" y="1546" width="351" height="480" frameX="-230" frameY="-77" frameWidth="807" frameHeight="626" />
+<SubTexture name="balss miss left0002" x="0" y="1546" width="351" height="480" frameX="-230" frameY="-77" frameWidth="807" frameHeight="626" />
+<SubTexture name="balss miss left0003" x="0" y="1546" width="351" height="480" frameX="-230" frameY="-77" frameWidth="807" frameHeight="626" />
+<SubTexture name="balss miss right0000" x="1356" y="1042" width="339" height="495" frameX="-242" frameY="-62" frameWidth="807" frameHeight="626" />
+<SubTexture name="balss miss right0001" x="1709" y="0" width="339" height="492" frameX="-242" frameY="-65" frameWidth="807" frameHeight="626" />
+<SubTexture name="balss miss right0002" x="1709" y="0" width="339" height="492" frameX="-242" frameY="-65" frameWidth="807" frameHeight="626" />
+<SubTexture name="balss miss right0003" x="1709" y="0" width="339" height="492" frameX="-242" frameY="-65" frameWidth="807" frameHeight="626" />
+</TextureAtlas>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="halloween_clouds.png">
+<SubTexture name="halloweem clouds0000" x="902" y="0" width="888" height="411" frameX="-297" frameY="-173" frameWidth="2114" frameHeight="1075" />
+<SubTexture name="halloweem clouds lightning strike0000" x="902" y="411" width="888" height="411" frameX="-297" frameY="-173" frameWidth="2114" frameHeight="1075" />
+<SubTexture name="halloweem clouds lightning strike0001" x="902" y="411" width="888" height="411" frameX="-297" frameY="-173" frameWidth="2114" frameHeight="1075" />
+<SubTexture name="halloweem clouds lightning strike0002" x="0" y="847" width="888" height="411" frameX="-297" frameY="-173" frameWidth="2114" frameHeight="1075" />
+<SubTexture name="halloweem clouds lightning strike0003" x="0" y="0" width="902" height="427" frameX="-290" frameY="-164" frameWidth="2114" frameHeight="1075" />
+<SubTexture name="halloweem clouds lightning strike0004" x="0" y="427" width="895" height="420" frameX="-293" frameY="-168" frameWidth="2114" frameHeight="1075" />
+<SubTexture name="halloweem clouds lightning strike0005" x="888" y="847" width="888" height="411" frameX="-297" frameY="-173" frameWidth="2114" frameHeight="1075" />
+<SubTexture name="halloweem clouds lightning strike0006" x="0" y="1258" width="888" height="411" frameX="-297" frameY="-173" frameWidth="2114" frameHeight="1075" />
+<SubTexture name="halloweem clouds lightning strike0007" x="0" y="1258" width="888" height="411" frameX="-297" frameY="-173" frameWidth="2114" frameHeight="1075" />
+<SubTexture name="halloweem clouds lightning strike0008" x="0" y="1258" width="888" height="411" frameX="-297" frameY="-173" frameWidth="2114" frameHeight="1075" />
+<SubTexture name="halloweem clouds lightning strike0009" x="0" y="1258" width="888" height="411" frameX="-297" frameY="-173" frameWidth="2114" frameHeight="1075" />
+<SubTexture name="halloweem clouds lightning strike0010" x="888" y="1258" width="888" height="411" frameX="-297" frameY="-173" frameWidth="2114" frameHeight="1075" />
+<SubTexture name="halloweem clouds lightning strike0011" x="888" y="1258" width="888" height="411" frameX="-297" frameY="-173" frameWidth="2114" frameHeight="1075" />
+<SubTexture name="halloweem clouds lightning strike0012" x="888" y="1258" width="888" height="411" frameX="-297" frameY="-173" frameWidth="2114" frameHeight="1075" />
+<SubTexture name="halloweem clouds lightning strike0013" x="1790" y="0" width="888" height="411" frameX="-297" frameY="-173" frameWidth="2114" frameHeight="1075" />
+<SubTexture name="halloweem clouds lightning strike0014" x="1790" y="411" width="888" height="411" frameX="-297" frameY="-173" frameWidth="2114" frameHeight="1075" />
+<SubTexture name="halloweem clouds lightning strike0015" x="1790" y="411" width="888" height="411" frameX="-297" frameY="-173" frameWidth="2114" frameHeight="1075" />
+<SubTexture name="halloweem clouds lightning strike0016" x="1790" y="822" width="888" height="411" frameX="-297" frameY="-173" frameWidth="2114" frameHeight="1075" />
+<SubTexture name="halloweem clouds lightning strike0017" x="1790" y="1233" width="888" height="411" frameX="-297" frameY="-173" frameWidth="2114" frameHeight="1075" />
+<SubTexture name="halloweem clouds lightning strike0018" x="0" y="1669" width="888" height="411" frameX="-297" frameY="-173" frameWidth="2114" frameHeight="1075" />
+<SubTexture name="halloweem clouds lightning strike0019" x="888" y="1669" width="888" height="411" frameX="-297" frameY="-173" frameWidth="2114" frameHeight="1075" />
+<SubTexture name="halloweem clouds lightning strike0020" x="1776" y="1669" width="888" height="411" frameX="-297" frameY="-173" frameWidth="2114" frameHeight="1075" />
+<SubTexture name="halloweem clouds lightning strike0021" x="902" y="0" width="888" height="411" frameX="-297" frameY="-173" frameWidth="2114" frameHeight="1075" />
+</TextureAtlas>

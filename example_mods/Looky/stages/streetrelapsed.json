@@ -1,0 +1,9 @@
+{
+	"directory": "streetrelapsed",
+	"defaultZoom": 0.6,
+	"isPixelStage": false,
+
+	"boyfriend": [270, 360],
+	"girlfriend": [-570, 400],
+	"opponent": [880, 380]
+}

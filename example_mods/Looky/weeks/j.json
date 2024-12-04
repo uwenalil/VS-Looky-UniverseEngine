@@ -1,0 +1,32 @@
+{
+	"storyName": "judgement",
+	"difficulties": "Easy, Normal, Hard, Impossible",
+	"hideFreeplay": false,
+	"weekBackground": "Judgement",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"judgement",
+			"lookygod",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "It's your time to be Judged."
+}

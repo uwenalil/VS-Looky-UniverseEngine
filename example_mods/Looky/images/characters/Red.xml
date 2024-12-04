@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="red.png">
+<SubTexture name="red idle0000" x="884" y="1731" width="505" height="391" frameX="-324" frameY="-221" frameWidth="1100" frameHeight="619" />
+<SubTexture name="red idle0001" x="443" y="1731" width="441" height="484" frameX="-354" frameY="-126" frameWidth="1100" frameHeight="619" />
+<SubTexture name="red idle0002" x="570" y="1168" width="441" height="545" frameX="-354" frameY="-63" frameWidth="1100" frameHeight="619" />
+<SubTexture name="red idle0003" x="1011" y="1168" width="441" height="537" frameX="-354" frameY="-71" frameWidth="1100" frameHeight="619" />
+<SubTexture name="red singUP0000" x="0" y="0" width="390" height="605" frameX="-368" frameY="-4" frameWidth="1100" frameHeight="619" />
+<SubTexture name="red singUP0001" x="1223" y="563" width="390" height="552" frameX="-368" frameY="-57" frameWidth="1100" frameHeight="619" />
+<SubTexture name="red singUP0002" x="833" y="0" width="390" height="563" frameX="-368" frameY="-46" frameWidth="1100" frameHeight="619" />
+<SubTexture name="red singDOWN0000" x="0" y="1731" width="443" height="517" frameX="-315" frameY="-92" frameWidth="1100" frameHeight="619" />
+<SubTexture name="red singDOWN0001" x="390" y="0" width="443" height="574" frameX="-315" frameY="-34" frameWidth="1100" frameHeight="619" />
+<SubTexture name="red singDOWN0002" x="0" y="605" width="443" height="563" frameX="-315" frameY="-45" frameWidth="1100" frameHeight="619" />
+<SubTexture name="red singLEFT0000" x="443" y="605" width="493" height="563" frameX="-330" frameY="-45" frameWidth="1100" frameHeight="619" />
+<SubTexture name="red singLEFT0001" x="1223" y="0" width="557" height="563" frameX="-347" frameY="-45" frameWidth="1100" frameHeight="619" />
+<SubTexture name="red singLEFT0002" x="0" y="1168" width="570" height="563" frameX="-349" frameY="-45" frameWidth="1100" frameHeight="619" />
+<SubTexture name="red singRIGHT0000" x="1780" y="0" width="500" height="537" frameX="-365" frameY="-71" frameWidth="1100" frameHeight="619" />
+<SubTexture name="red singRIGHT0001" x="1780" y="537" width="452" height="537" frameX="-363" frameY="-71" frameWidth="1100" frameHeight="619" />
+<SubTexture name="red singRIGHT0002" x="1780" y="1074" width="472" height="537" frameX="-365" frameY="-71" frameWidth="1100" frameHeight="619" />
+</TextureAtlas>

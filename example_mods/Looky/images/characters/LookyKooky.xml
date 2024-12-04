@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="LookyKooky.png">
+<SubTexture name="LookyKooky down0000" x="454" y="571" width="455" height="92" frameX="-81" frameY="-526" frameWidth="619" frameHeight="619" />
+<SubTexture name="LookyKooky idle0000" x="555" y="0" width="454" height="564" frameX="-81" frameY="-45" frameWidth="619" frameHeight="619" />
+<SubTexture name="LookyKooky left0000" x="1009" y="0" width="454" height="564" frameX="-85" frameY="-45" frameWidth="619" frameHeight="619" />
+<SubTexture name="LookyKooky right0000" x="0" y="0" width="555" height="571" frameX="-64" frameY="-45" frameWidth="619" frameHeight="619" />
+<SubTexture name="LookyKooky up0000" x="0" y="571" width="454" height="564" frameX="-81" frameY="-45" frameWidth="619" frameHeight="619" />
+</TextureAtlas>

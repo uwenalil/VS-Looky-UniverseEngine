@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="WizKids.png">
+<SubTexture name="WizKids idle0000" x="552" y="0" width="576" height="471" frameX="-133" frameY="-158" frameWidth="800" frameHeight="800" />
+<SubTexture name="WizKids down0000" x="1128" y="0" width="459" height="412" frameX="-187" frameY="-204" frameWidth="800" frameHeight="800" />
+<SubTexture name="WizKids left0000" x="530" y="487" width="522" height="422" frameX="-170" frameY="-211" frameWidth="800" frameHeight="800" />
+<SubTexture name="WizKids right0000" x="0" y="0" width="552" height="487" frameX="-131" frameY="-129" frameWidth="800" frameHeight="800" />
+<SubTexture name="WizKids up0000" x="0" y="487" width="530" height="461" frameX="-162" frameY="-147" frameWidth="800" frameHeight="800" />
+</TextureAtlas>

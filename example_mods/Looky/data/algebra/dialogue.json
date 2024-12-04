@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"expression": "confused",
+			"text": "Hey there!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sus"
+		},
+		{
+			"expression": "confused",
+			"text": "Welcome to my school!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sus"
+		},
+		{
+			"expression": "confused",
+			"text": "People don't visit me that often, so I'm glad you're here!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sus"
+		},
+		{
+			"expression": "talk",
+			"text": "Beep?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "Don't worry about my disability, I can get around myself.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sus"
+		},
+		{
+			"expression": "talk",
+			"text": "Bap!",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		}
+	]
+}

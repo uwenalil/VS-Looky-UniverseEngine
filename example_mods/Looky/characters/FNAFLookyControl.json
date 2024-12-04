@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "SOULCAGE idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				20
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "SOULCAGE right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				70
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "SOULCAGE down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				90
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "SOULCAGE up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-49,
+				3
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "SOULCAGE left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/SOULCAGE",
+	"position": [
+		-230,
+		-60
+	],
+	"healthicon": "SOULCAGE",
+	"flip_x": false,
+	"healthbar_colors": [
+		15,
+		24,
+		148
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

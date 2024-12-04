@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Sad Mouse Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				26,
+				8
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Sad Mouse Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				12,
+				-34
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Sad Mouse Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				-11
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Sad Mouse Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				43,
+				22
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Sad Mouse Rigth",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mickeyLastDay",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "lastDayM",
+	"flip_x": false,
+	"healthbar_colors": [
+		43,
+		46,
+		40
+	],
+	"camera_position": [
+		100,
+		50
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

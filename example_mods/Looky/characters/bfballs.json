@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-43,
+				-1
+			],
+			"anim": "idle",
+			"fps": 13,
+			"name": "balss idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-43,
+				-1
+			],
+			"anim": "singUP",
+			"fps": 13,
+			"name": "balss up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-43,
+				-1
+			],
+			"anim": "singDOWN",
+			"fps": 13,
+			"name": "balss down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-43,
+				-1
+			],
+			"anim": "singRIGHT",
+			"fps": 13,
+			"name": "balss right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-43,
+				-1
+			],
+			"anim": "singLEFT",
+			"fps": 13,
+			"name": "balss left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-44,
+				-1
+			],
+			"anim": "singDOWNmiss",
+			"fps": 13,
+			"name": "balss miss down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-44,
+				-1
+			],
+			"anim": "singUPmiss",
+			"fps": 13,
+			"name": "balss miss up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-44,
+				-1
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 13,
+			"name": "balss miss right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-44,
+				-1
+			],
+			"anim": "singLEFTmiss",
+			"fps": 13,
+			"name": "balss miss left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/balss",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "gang",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		270,
+		-80
+	],
+	"sing_duration": 4,
+	"scale": 1.3
+}

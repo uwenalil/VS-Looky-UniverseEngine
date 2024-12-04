@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="evilspong.png">
+<SubTexture name="evilspong idle0000" x="664" y="1185" width="332" height="187" frameX="-166" frameY="-423" frameWidth="619" frameHeight="619" />
+<SubTexture name="evilspong idle0001" x="0" y="1185" width="332" height="326" frameX="-166" frameY="-277" frameWidth="619" frameHeight="619" />
+<SubTexture name="evilspong idle0002" x="1328" y="368" width="332" height="362" frameX="-166" frameY="-239" frameWidth="619" frameHeight="619" />
+<SubTexture name="evilspong idle0003" x="664" y="0" width="332" height="368" frameX="-166" frameY="-232" frameWidth="619" frameHeight="619" />
+<SubTexture name="evilspong singLEFT0000" x="0" y="449" width="371" height="368" frameX="-117" frameY="-232" frameWidth="619" frameHeight="619" />
+<SubTexture name="evilspong singLEFT0001" x="371" y="449" width="341" height="368" frameX="-155" frameY="-232" frameWidth="619" frameHeight="619" />
+<SubTexture name="evilspong singLEFT0002" x="996" y="0" width="332" height="368" frameX="-166" frameY="-232" frameWidth="619" frameHeight="619" />
+<SubTexture name="evilspong singDOWN0000" x="332" y="1185" width="332" height="263" frameX="-166" frameY="-344" frameWidth="619" frameHeight="619" />
+<SubTexture name="evilspong singDOWN0001" x="1328" y="730" width="332" height="346" frameX="-166" frameY="-256" frameWidth="619" frameHeight="619" />
+<SubTexture name="evilspong singDOWN0002" x="996" y="368" width="332" height="368" frameX="-166" frameY="-232" frameWidth="619" frameHeight="619" />
+<SubTexture name="evilspong singRIGHT0000" x="0" y="817" width="384" height="368" frameX="-173" frameY="-232" frameWidth="619" frameHeight="619" />
+<SubTexture name="evilspong singRIGHT0001" x="384" y="817" width="343" height="368" frameX="-166" frameY="-232" frameWidth="619" frameHeight="619" />
+<SubTexture name="evilspong singRIGHT0002" x="727" y="817" width="332" height="368" frameX="-166" frameY="-232" frameWidth="619" frameHeight="619" />
+<SubTexture name="evilspong singUP0000" x="0" y="0" width="332" height="449" frameX="-166" frameY="-149" frameWidth="619" frameHeight="619" />
+<SubTexture name="evilspong singUP0001" x="332" y="0" width="332" height="385" frameX="-166" frameY="-215" frameWidth="619" frameHeight="619" />
+<SubTexture name="evilspong singUP0002" x="1328" y="0" width="332" height="368" frameX="-166" frameY="-232" frameWidth="619" frameHeight="619" />
+</TextureAtlas>

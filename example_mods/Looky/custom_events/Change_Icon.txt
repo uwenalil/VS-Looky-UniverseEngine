@@ -1,0 +1,3 @@
+Value 1: P1 or P2, Name of icon, HexCode
+
+ex: P2, dad, 0000FF or P1,dad,0000FF

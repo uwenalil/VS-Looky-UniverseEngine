@@ -1,0 +1,9 @@
+v1 turns it on or off by typing "on" or "off".
+v2 changes drain amount and drain limit. (i.e. "0.023, 0.5")
+Obviously don't add "".
+
+Leave blank for default.
+
+Default:
+v1 = on
+v2 = 0.023, 0.5

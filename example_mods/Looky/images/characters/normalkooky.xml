@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="normalkooky.png">
+<SubTexture name="normalkooky idle0000" x="320" y="387" width="320" height="228" frameX="-147" frameY="-388" frameWidth="619" frameHeight="619" />
+<SubTexture name="normalkooky idle0001" x="0" y="387" width="320" height="237" frameX="-147" frameY="-378" frameWidth="619" frameHeight="619" />
+<SubTexture name="normalkooky idle0002" x="640" y="0" width="320" height="347" frameX="-147" frameY="-266" frameWidth="619" frameHeight="619" />
+<SubTexture name="normalkooky idle0003" x="320" y="0" width="320" height="383" frameX="-147" frameY="-230" frameWidth="619" frameHeight="619" />
+<SubTexture name="normalkooky idle0004" x="0" y="0" width="320" height="387" frameX="-147" frameY="-225" frameWidth="619" frameHeight="619" />
+</TextureAtlas>

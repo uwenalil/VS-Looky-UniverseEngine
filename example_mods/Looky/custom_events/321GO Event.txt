@@ -1,0 +1,9 @@
+Version 0.1!
+I will improve this soon as soon as i can.
+
+Next Version will maybe have:
+Pixel Stage Detector, Size Changer, Offset Changer,
+Duration Changer.
+In the meanwhile you can edit the code to change it
+to your liking.
+by HafimieForever/Hafimie.

@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Gfbuzzer.png">
+<SubTexture name="Gfbuzzer idle0000" x="680" y="0" width="342" height="560" frameX="-197" frameY="-7" frameWidth="723" frameHeight="600" />
+<SubTexture name="Gfbuzzer idle0001" x="339" y="0" width="341" height="561" frameX="-197" frameY="-6" frameWidth="723" frameHeight="600" />
+<SubTexture name="Gfbuzzer idle0002" x="1022" y="0" width="339" height="560" frameX="-197" frameY="-7" frameWidth="723" frameHeight="600" />
+<SubTexture name="Gfbuzzer idle0003" x="0" y="565" width="339" height="560" frameX="-197" frameY="-7" frameWidth="723" frameHeight="600" />
+<SubTexture name="Gfbuzzer idle0004" x="339" y="565" width="339" height="560" frameX="-197" frameY="-7" frameWidth="723" frameHeight="600" />
+<SubTexture name="Gfbuzzer idle0005" x="678" y="565" width="339" height="560" frameX="-197" frameY="-7" frameWidth="723" frameHeight="600" />
+<SubTexture name="Gfbuzzer idle0006" x="1017" y="565" width="339" height="560" frameX="-197" frameY="-7" frameWidth="723" frameHeight="600" />
+<SubTexture name="Gfbuzzer idle0007" x="1017" y="565" width="339" height="560" frameX="-197" frameY="-7" frameWidth="723" frameHeight="600" />
+<SubTexture name="Gfbuzzer idle0008" x="1017" y="565" width="339" height="560" frameX="-197" frameY="-7" frameWidth="723" frameHeight="600" />
+<SubTexture name="Gfbuzzer idle0009" x="1017" y="565" width="339" height="560" frameX="-197" frameY="-7" frameWidth="723" frameHeight="600" />
+<SubTexture name="Gfbuzzer idle0010" x="1700" y="0" width="339" height="558" frameX="-197" frameY="-9" frameWidth="723" frameHeight="600" />
+<SubTexture name="Gfbuzzer idle0011" x="1700" y="558" width="339" height="558" frameX="-197" frameY="-9" frameWidth="723" frameHeight="600" />
+<SubTexture name="Gfbuzzer idle0012" x="2039" y="558" width="339" height="557" frameX="-197" frameY="-10" frameWidth="723" frameHeight="600" />
+<SubTexture name="Gfbuzzer idle0013" x="1361" y="0" width="339" height="560" frameX="-197" frameY="-7" frameWidth="723" frameHeight="600" />
+<SubTexture name="Gfbuzzer idle0014" x="1361" y="560" width="339" height="560" frameX="-197" frameY="-7" frameWidth="723" frameHeight="600" />
+<SubTexture name="Gfbuzzer idle0015" x="0" y="1125" width="339" height="560" frameX="-197" frameY="-7" frameWidth="723" frameHeight="600" />
+<SubTexture name="Gfbuzzer idle0016" x="0" y="1125" width="339" height="560" frameX="-197" frameY="-7" frameWidth="723" frameHeight="600" />
+<SubTexture name="Gfbuzzer idle0017" x="0" y="1125" width="339" height="560" frameX="-197" frameY="-7" frameWidth="723" frameHeight="600" />
+<SubTexture name="Gfbuzzer idle0018" x="0" y="1125" width="339" height="560" frameX="-197" frameY="-7" frameWidth="723" frameHeight="600" />
+<SubTexture name="Gfbuzzer idle0019" x="0" y="1125" width="339" height="560" frameX="-197" frameY="-7" frameWidth="723" frameHeight="600" />
+<SubTexture name="Gfbuzzer down0000" x="1017" y="1685" width="339" height="548" frameX="-197" frameY="-19" frameWidth="723" frameHeight="600" />
+<SubTexture name="Gfbuzzer down0001" x="2039" y="1115" width="339" height="557" frameX="-197" frameY="-10" frameWidth="723" frameHeight="600" />
+<SubTexture name="Gfbuzzer down0002" x="0" y="1685" width="339" height="556" frameX="-197" frameY="-11" frameWidth="723" frameHeight="600" />
+<SubTexture name="Gfbuzzer down0003" x="0" y="1685" width="339" height="556" frameX="-197" frameY="-11" frameWidth="723" frameHeight="600" />
+<SubTexture name="Gfbuzzer down0004" x="0" y="1685" width="339" height="556" frameX="-197" frameY="-11" frameWidth="723" frameHeight="600" />
+<SubTexture name="Gfbuzzer up0000" x="0" y="0" width="339" height="565" frameX="-197" frameY="-2" frameWidth="723" frameHeight="600" />
+<SubTexture name="Gfbuzzer up0001" x="339" y="1685" width="339" height="555" frameX="-197" frameY="-12" frameWidth="723" frameHeight="600" />
+<SubTexture name="Gfbuzzer up0002" x="678" y="1685" width="339" height="555" frameX="-197" frameY="-12" frameWidth="723" frameHeight="600" />
+<SubTexture name="Gfbuzzer up0003" x="678" y="1685" width="339" height="555" frameX="-197" frameY="-12" frameWidth="723" frameHeight="600" />
+<SubTexture name="Gfbuzzer up0004" x="678" y="1685" width="339" height="555" frameX="-197" frameY="-12" frameWidth="723" frameHeight="600" />
+<SubTexture name="Gfbuzzer left0000" x="1700" y="1116" width="339" height="558" frameX="-197" frameY="-9" frameWidth="723" frameHeight="600" />
+<SubTexture name="Gfbuzzer left0001" x="339" y="1125" width="339" height="559" frameX="-197" frameY="-8" frameWidth="723" frameHeight="600" />
+<SubTexture name="Gfbuzzer left0002" x="678" y="1125" width="339" height="559" frameX="-197" frameY="-8" frameWidth="723" frameHeight="600" />
+<SubTexture name="Gfbuzzer left0003" x="678" y="1125" width="339" height="559" frameX="-197" frameY="-8" frameWidth="723" frameHeight="600" />
+<SubTexture name="Gfbuzzer left0004" x="678" y="1125" width="339" height="559" frameX="-197" frameY="-8" frameWidth="723" frameHeight="600" />
+<SubTexture name="Gfbuzzer right0000" x="2039" y="0" width="351" height="558" frameX="-197" frameY="-9" frameWidth="723" frameHeight="600" />
+<SubTexture name="Gfbuzzer right0001" x="1017" y="1125" width="342" height="559" frameX="-197" frameY="-8" frameWidth="723" frameHeight="600" />
+<SubTexture name="Gfbuzzer right0002" x="1359" y="1125" width="340" height="559" frameX="-197" frameY="-8" frameWidth="723" frameHeight="600" />
+<SubTexture name="Gfbuzzer right0003" x="1359" y="1125" width="340" height="559" frameX="-197" frameY="-8" frameWidth="723" frameHeight="600" />
+<SubTexture name="Gfbuzzer right0004" x="1359" y="1125" width="340" height="559" frameX="-197" frameY="-8" frameWidth="723" frameHeight="600" />
+<SubTexture name="Gfbuzzer miss down0000" x="2390" y="486" width="339" height="485" frameX="-238" frameY="-82" frameWidth="812" frameHeight="615" />
+<SubTexture name="Gfbuzzer miss down0001" x="0" y="2241" width="339" height="475" frameX="-238" frameY="-92" frameWidth="812" frameHeight="615" />
+<SubTexture name="Gfbuzzer miss down0002" x="0" y="2241" width="339" height="475" frameX="-238" frameY="-92" frameWidth="812" frameHeight="615" />
+<SubTexture name="Gfbuzzer miss down0003" x="0" y="2241" width="339" height="475" frameX="-238" frameY="-92" frameWidth="812" frameHeight="615" />
+<SubTexture name="Gfbuzzer miss up0000" x="1695" y="1685" width="339" height="521" frameX="-238" frameY="-46" frameWidth="812" frameHeight="615" />
+<SubTexture name="Gfbuzzer miss up0001" x="1356" y="1685" width="339" height="530" frameX="-238" frameY="-37" frameWidth="812" frameHeight="615" />
+<SubTexture name="Gfbuzzer miss up0002" x="1356" y="1685" width="339" height="530" frameX="-238" frameY="-37" frameWidth="812" frameHeight="615" />
+<SubTexture name="Gfbuzzer miss up0003" x="1356" y="1685" width="339" height="530" frameX="-238" frameY="-37" frameWidth="812" frameHeight="615" />
+<SubTexture name="Gfbuzzer miss left0000" x="2034" y="1685" width="339" height="487" frameX="-238" frameY="-80" frameWidth="812" frameHeight="615" />
+<SubTexture name="Gfbuzzer miss left0001" x="2390" y="0" width="356" height="486" frameX="-221" frameY="-81" frameWidth="812" frameHeight="615" />
+<SubTexture name="Gfbuzzer miss left0002" x="2390" y="0" width="356" height="486" frameX="-221" frameY="-81" frameWidth="812" frameHeight="615" />
+<SubTexture name="Gfbuzzer miss left0003" x="2390" y="0" width="356" height="486" frameX="-221" frameY="-81" frameWidth="812" frameHeight="615" />
+<SubTexture name="Gfbuzzer miss right0000" x="2390" y="971" width="339" height="476" frameX="-238" frameY="-91" frameWidth="812" frameHeight="615" />
+<SubTexture name="Gfbuzzer miss right0001" x="2390" y="1447" width="339" height="476" frameX="-238" frameY="-91" frameWidth="812" frameHeight="615" />
+<SubTexture name="Gfbuzzer miss right0002" x="2390" y="1447" width="339" height="476" frameX="-238" frameY="-91" frameWidth="812" frameHeight="615" />
+<SubTexture name="Gfbuzzer miss right0003" x="2390" y="1447" width="339" height="476" frameX="-238" frameY="-91" frameWidth="812" frameHeight="615" />
+</TextureAtlas>

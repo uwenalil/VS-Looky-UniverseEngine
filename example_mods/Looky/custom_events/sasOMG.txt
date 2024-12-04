@@ -1,0 +1,6 @@
+Usa un solo value a la vez pq ya sabes xd
+y recuerda poner 0 en el que no uses XD
+No hace falta poner un "-" si usas negativo, es automatico eso XD
+
+value1 = positivo +
+value2 = negativo -

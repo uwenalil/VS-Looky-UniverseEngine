@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="wallText.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="text10000" x="2" y="2" width="1280" height="548"/>
+	<SubTexture name="text20000" x="1284" y="2" width="1280" height="548"/>
+	<SubTexture name="text30000" x="2566" y="2" width="1280" height="548"/>
+	<SubTexture name="text40000" x="2" y="552" width="1280" height="548"/>
+	<SubTexture name="text50000" x="1284" y="552" width="1280" height="548"/>
+	<SubTexture name="text60000" x="2566" y="552" width="1280" height="548"/>
+	<SubTexture name="text70000" x="2" y="1102" width="1280" height="548"/>
+</TextureAtlas>

@@ -1,0 +1,5 @@
+Value 1: Value
+Value 2: Duration
+
+if value 1 & 2 blank, the head will be enable
+else if value 1 & 2 have zero number, the head will be remove

@@ -1,0 +1,59 @@
+{
+	"storyName": "FNF VS Looky: Christmas Special Update part 1",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "christmas",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Christmas-Cheer",
+			"sponge",
+			[
+				0,
+				0,
+				0
+			]
+		],
+		[
+			"santa-singoff",
+			"Cham",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"special-guest",
+			"Cham",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"gift-trap",
+			"sponge",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "It's your time to be Judged."
+}

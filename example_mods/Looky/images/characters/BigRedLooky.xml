@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BigRedLooky.png">
+<SubTexture name="BigRedLooky idle0000" x="536" y="0" width="541" height="533" frameX="-143" frameY="-153" frameWidth="800" frameHeight="800" />
+<SubTexture name="BigRedLooky down0000" x="0" y="0" width="536" height="556" frameX="-143" frameY="-244" frameWidth="800" frameHeight="800" />
+<SubTexture name="BigRedLooky left0000" x="1077" y="0" width="606" height="533" frameX="-2" frameY="-124" frameWidth="800" frameHeight="800" />
+<SubTexture name="BigRedLooky right0000" x="0" y="556" width="566" height="533" frameX="-227" frameY="-126" frameWidth="800" frameHeight="800" />
+<SubTexture name="BigRedLooky up0000" x="566" y="556" width="533" height="533" frameX="-151" frameY="-43" frameWidth="800" frameHeight="800" />
+</TextureAtlas>

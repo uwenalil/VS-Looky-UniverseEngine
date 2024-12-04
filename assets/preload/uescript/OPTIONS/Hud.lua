@@ -44,6 +44,7 @@ function onCreatePost()
     setTextFont('botplayTxt', 'funkin.ttf')
 
     if UEhudPos == 'left' then
+
     end
 
     if UEhudPos == 'CENTER' then

@@ -1,0 +1,166 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Looky Anything Pad idle0000",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "first",
+			"fps": 24,
+			"name": "Looky Anything Pad first0000",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "second",
+			"fps": 24,
+			"name": "Looky Anything Pad second0000",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "third",
+			"fps": 24,
+			"name": "Looky Anything Pad third0000",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "fourth",
+			"fps": 24,
+			"name": "Looky Anything Pad fourth0000",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "5",
+			"fps": 24,
+			"name": "Looky Anything Pad 50000",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "question",
+			"fps": 24,
+			"name": "Looky Anything Pad question0000",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "4",
+			"fps": 24,
+			"name": "Looky Anything Pad 40000",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "minus",
+			"fps": 24,
+			"name": "Looky Anything Pad minus0000",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "1",
+			"fps": 24,
+			"name": "Looky Anything Pad 10000",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "plus",
+			"fps": 24,
+			"name": "Looky Anything Pad plus0000",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "6",
+			"fps": 24,
+			"name": "Looky Anything Pad 60000",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "10",
+			"fps": 24,
+			"name": "Looky Anything Pad 100000",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Looky Anything Pad",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "YCLAP",
+	"flip_x": false,
+	"healthbar_colors": [
+		43,
+		43,
+		62
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 3
+}

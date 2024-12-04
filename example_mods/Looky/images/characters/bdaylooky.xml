@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="bdaylooky.png">
+<SubTexture name="bdaylooky idle0000" x="0" y="1451" width="364" height="318" frameX="-84" frameY="-76" frameWidth="512" frameHeight="512" />
+<SubTexture name="bdaylooky idle0001" x="1043" y="761" width="337" height="351" frameX="-106" frameY="-43" frameWidth="512" frameHeight="512" />
+<SubTexture name="bdaylooky idle0002" x="317" y="396" width="326" height="363" frameX="-115" frameY="-30" frameWidth="512" frameHeight="512" />
+<SubTexture name="bdaylooky idle0003" x="0" y="396" width="317" height="365" frameX="-122" frameY="-28" frameWidth="512" frameHeight="512" />
+<SubTexture name="bdaylooky idle0004" x="643" y="396" width="313" height="363" frameX="-126" frameY="-30" frameWidth="512" frameHeight="512" />
+<SubTexture name="bdaylooky idle0005" x="1103" y="363" width="312" height="361" frameX="-127" frameY="-32" frameWidth="512" frameHeight="512" />
+<SubTexture name="bdaylooky singDOWN0000" x="0" y="0" width="382" height="396" frameX="-82" frameY="-5" frameWidth="512" frameHeight="512" />
+<SubTexture name="bdaylooky singDOWN0001" x="382" y="0" width="367" height="383" frameX="-90" frameY="-16" frameWidth="512" frameHeight="512" />
+<SubTexture name="bdaylooky singDOWN0002" x="0" y="761" width="354" height="360" frameX="-97" frameY="-37" frameWidth="512" frameHeight="512" />
+<SubTexture name="bdaylooky singDOWN0003" x="1103" y="0" width="349" height="363" frameX="-101" frameY="-32" frameWidth="512" frameHeight="512" />
+<SubTexture name="bdaylooky singDOWN0004" x="354" y="761" width="345" height="355" frameX="-104" frameY="-39" frameWidth="512" frameHeight="512" />
+<SubTexture name="bdaylooky singDOWN0005" x="699" y="761" width="344" height="353" frameX="-105" frameY="-41" frameWidth="512" frameHeight="512" />
+<SubTexture name="bdaylooky singLEFT0000" x="0" y="1769" width="394" height="283" frameX="-39" frameY="-109" frameWidth="512" frameHeight="512" />
+<SubTexture name="bdaylooky singLEFT0001" x="1798" y="0" width="372" height="303" frameX="-66" frameY="-89" frameWidth="512" frameHeight="512" />
+<SubTexture name="bdaylooky singLEFT0002" x="730" y="1451" width="362" height="317" frameX="-80" frameY="-75" frameWidth="512" frameHeight="512" />
+<SubTexture name="bdaylooky singLEFT0003" x="1435" y="1121" width="362" height="320" frameX="-83" frameY="-72" frameWidth="512" frameHeight="512" />
+<SubTexture name="bdaylooky singLEFT0004" x="364" y="1451" width="366" height="318" frameX="-81" frameY="-74" frameWidth="512" frameHeight="512" />
+<SubTexture name="bdaylooky singLEFT0005" x="1092" y="1451" width="369" height="316" frameX="-79" frameY="-76" frameWidth="512" frameHeight="512" />
+<SubTexture name="bdaylooky singRIGHT0000" x="749" y="0" width="354" height="379" frameX="-127" frameY="-14" frameWidth="512" frameHeight="512" />
+<SubTexture name="bdaylooky singRIGHT0001" x="1452" y="0" width="346" height="346" frameX="-126" frameY="-47" frameWidth="512" frameHeight="512" />
+<SubTexture name="bdaylooky singRIGHT0002" x="352" y="1121" width="363" height="328" frameX="-103" frameY="-65" frameWidth="512" frameHeight="512" />
+<SubTexture name="bdaylooky singRIGHT0003" x="1072" y="1121" width="363" height="324" frameX="-98" frameY="-69" frameWidth="512" frameHeight="512" />
+<SubTexture name="bdaylooky singRIGHT0004" x="715" y="1121" width="357" height="328" frameX="-101" frameY="-65" frameWidth="512" frameHeight="512" />
+<SubTexture name="bdaylooky singRIGHT0005" x="0" y="1121" width="352" height="330" frameX="-105" frameY="-63" frameWidth="512" frameHeight="512" />
+<SubTexture name="bdaylooky singUP0000" x="1452" y="346" width="332" height="308" frameX="-119" frameY="-84" frameWidth="512" frameHeight="512" />
+<SubTexture name="bdaylooky singUP0001" x="1798" y="303" width="333" height="298" frameX="-114" frameY="-94" frameWidth="512" frameHeight="512" />
+<SubTexture name="bdaylooky singUP0002" x="1798" y="601" width="332" height="290" frameX="-114" frameY="-102" frameWidth="512" frameHeight="512" />
+<SubTexture name="bdaylooky singUP0003" x="1798" y="891" width="332" height="284" frameX="-114" frameY="-108" frameWidth="512" frameHeight="512" />
+<SubTexture name="bdaylooky singUP0004" x="1798" y="1175" width="332" height="283" frameX="-114" frameY="-109" frameWidth="512" frameHeight="512" />
+<SubTexture name="bdaylooky singUP0005" x="1798" y="1458" width="332" height="283" frameX="-114" frameY="-109" frameWidth="512" frameHeight="512" />
+</TextureAtlas>

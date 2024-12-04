@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 13,
+			"anim": "idle",
+			"indices": [],
+			"name": "bonono idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 13,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "bonono sing down"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 13,
+			"anim": "singUP",
+			"indices": [],
+			"name": "bonono sing up"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 13,
+			"anim": "bruh",
+			"indices": [],
+			"name": "bonono bruh"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 13,
+			"name": "bonono sing right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 13,
+			"name": "bonono sing left",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bonono",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "funnybanana",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		133,
+		16
+	],
+	"camera_position": [
+		-540,
+		20
+	],
+	"sing_duration": 6.1,
+	"scale": 1.1
+}

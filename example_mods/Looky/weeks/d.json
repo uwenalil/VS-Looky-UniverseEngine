@@ -1,0 +1,50 @@
+{
+	"storyName": "silly ppl or whatever",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Lore",
+			"lad",
+			[
+				255,
+				0,
+				0
+			]
+		],
+		[
+			"sacrifice.cham",
+			"cham",
+			[
+				0,
+				255,
+				120
+			]
+		],
+		[
+			"prey",
+			"lad",
+			[
+				100,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "",
+	"hiddenUntilUnlocked": false
+}

@@ -1,0 +1,3 @@
+value 1 : speed 
+
+value 2 : zoom boom thing lol

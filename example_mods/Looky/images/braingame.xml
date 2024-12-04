@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="braingame.png">
+<SubTexture name="braingame lights0000" x="0" y="0" width="464" height="341" frameX="-42" frameY="-46" frameWidth="547" frameHeight="450" />
+<SubTexture name="braingame lights0001" x="464" y="0" width="464" height="341" frameX="-42" frameY="-46" frameWidth="547" frameHeight="450" />
+<SubTexture name="braingame lights0002" x="0" y="341" width="464" height="341" frameX="-42" frameY="-46" frameWidth="547" frameHeight="450" />
+<SubTexture name="braingame lights0003" x="464" y="0" width="464" height="341" frameX="-42" frameY="-46" frameWidth="547" frameHeight="450" />
+<SubTexture name="braingame lights0004" x="0" y="341" width="464" height="341" frameX="-42" frameY="-46" frameWidth="547" frameHeight="450" />
+<SubTexture name="braingame lights0005" x="464" y="0" width="464" height="341" frameX="-42" frameY="-46" frameWidth="547" frameHeight="450" />
+</TextureAtlas>

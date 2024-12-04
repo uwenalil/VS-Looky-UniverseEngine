@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "MrLooky idle0000",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "MrLooky left0000",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "MrLooky down0000",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "MrLooky up0000",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "MrLooky right0000",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MrLooky",
+	"position": [
+		-100,
+		0
+	],
+	"healthicon": "MrLooky",
+	"flip_x": false,
+	"healthbar_colors": [
+		58,
+		63,
+		173
+	],
+	"camera_position": [
+		190,
+		10
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

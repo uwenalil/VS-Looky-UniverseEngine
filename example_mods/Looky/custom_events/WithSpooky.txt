@@ -1,0 +1,6 @@
+Value 1: Duration (0 = Instant)
+Value 2: Target transparency value
+
+Value 1: Duracion (0 = Instantaneo)
+Value 2: 0 completamente transparente, 1 visible
+ 

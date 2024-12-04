@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="superposition.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blue0000" x="0" y="0" width="157" height="307"/>
+	<SubTexture name="blue0001" x="167" y="0" width="157" height="307"/>
+	<SubTexture name="blue hold end0000" x="334" y="0" width="50" height="128"/>
+	<SubTexture name="blue hold end0001" x="394" y="0" width="50" height="128"/>
+	<SubTexture name="blue hold piece0000" x="454" y="0" width="50" height="87"/>
+	<SubTexture name="blue hold piece0001" x="514" y="0" width="50" height="87"/>
+	<SubTexture name="green0000" x="574" y="0" width="157" height="307"/>
+	<SubTexture name="green0001" x="741" y="0" width="157" height="307"/>
+	<SubTexture name="green hold end0000" x="908" y="0" width="50" height="128"/>
+	<SubTexture name="green hold end0001" x="968" y="0" width="50" height="128"/>
+	<SubTexture name="green hold piece0000" x="0" y="317" width="50" height="87"/>
+	<SubTexture name="green hold piece0001" x="60" y="317" width="50" height="87"/>
+	<SubTexture name="pruple end hold0000" x="120" y="317" width="51" height="128"/>
+	<SubTexture name="pruple end hold0001" x="181" y="317" width="51" height="128"/>
+	<SubTexture name="purple0000" x="242" y="317" width="154" height="314"/>
+	<SubTexture name="purple0001" x="406" y="317" width="154" height="314"/>
+	<SubTexture name="purple hold piece0000" x="570" y="317" width="50" height="87"/>
+	<SubTexture name="purple hold piece0001" x="630" y="317" width="50" height="87"/>
+	<SubTexture name="red0000" x="690" y="317" width="154" height="313"/>
+	<SubTexture name="red0001" x="854" y="317" width="154" height="313"/>
+	<SubTexture name="red hold end0000" x="0" y="641" width="50" height="128"/>
+	<SubTexture name="red hold end0001" x="60" y="641" width="50" height="128"/>
+	<SubTexture name="red hold piece0000" x="120" y="641" width="50" height="87"/>
+	<SubTexture name="red hold piece0001" x="180" y="641" width="50" height="87"/>
+</TextureAtlas>

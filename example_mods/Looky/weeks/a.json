@@ -1,0 +1,50 @@
+{
+	"storyName": "omg looky from the hit game roblox rainbow friends chapter two!!!",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "bob",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"looky",
+			"sponge",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"blue",
+			"sponge",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"mayhem",
+			"sponge",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Dev Testing Looky",
+	"hiddenUntilUnlocked": false
+}

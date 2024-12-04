@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Tails-P2.png">
+<SubTexture name="idle0000" x="200" y="0" width="67" height="68" frameX="-35" frameY="-66" frameWidth="100" frameHeight="100" />
+<SubTexture name="idle0001" x="0" y="76" width="67" height="69" frameX="-35" frameY="-65" frameWidth="100" frameHeight="100" />
+<SubTexture name="idle0002" x="67" y="76" width="67" height="69" frameX="-35" frameY="-65" frameWidth="100" frameHeight="100" />
+<SubTexture name="down0000" x="267" y="134" width="67" height="61" frameX="-35" frameY="-73" frameWidth="100" frameHeight="100" />
+<SubTexture name="down0001" x="69" y="212" width="69" height="62" frameX="-34" frameY="-72" frameWidth="100" frameHeight="100" />
+<SubTexture name="dmiss0000" x="138" y="212" width="69" height="62" frameX="-34" frameY="-72" frameWidth="100" frameHeight="100" />
+<SubTexture name="left0000" x="0" y="145" width="69" height="67" frameX="-35" frameY="-67" frameWidth="100" frameHeight="100" />
+<SubTexture name="left0001" x="69" y="145" width="67" height="67" frameX="-37" frameY="-67" frameWidth="100" frameHeight="100" />
+<SubTexture name="lmiss0000" x="136" y="145" width="67" height="67" frameX="-37" frameY="-67" frameWidth="100" frameHeight="100" />
+<SubTexture name="rmiss0000" x="267" y="0" width="67" height="67" frameX="-36" frameY="-67" frameWidth="100" frameHeight="100" />
+<SubTexture name="right0000" x="0" y="212" width="69" height="67" frameX="-36" frameY="-67" frameWidth="100" frameHeight="100" />
+<SubTexture name="right0001" x="267" y="67" width="67" height="67" frameX="-36" frameY="-67" frameWidth="100" frameHeight="100" />
+<SubTexture name="umiss0000" x="200" y="68" width="65" height="68" frameX="-35" frameY="-66" frameWidth="100" frameHeight="100" />
+<SubTexture name="up0000" x="136" y="0" width="64" height="70" frameX="-35" frameY="-64" frameWidth="100" frameHeight="100" />
+<SubTexture name="up0001" x="134" y="76" width="65" height="68" frameX="-35" frameY="-66" frameWidth="100" frameHeight="100" />
+<SubTexture name="scream0000" x="0" y="0" width="68" height="76" frameX="-35" frameY="-58" frameWidth="100" frameHeight="100" />
+<SubTexture name="scream0001" x="68" y="0" width="68" height="75" frameX="-35" frameY="-59" frameWidth="100" frameHeight="100" />
+</TextureAtlas>

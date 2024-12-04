@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="8friendREFUNKED.png" width="36" height="9">
+  <SubTexture name="down" x="0" y="0"  width="7" height="7" frameX="-0" frameY="-0" frameWidth="7" frameHeight="7"/>
+  <SubTexture name="idle" x="7" y="0"  width="7" height="8" frameX="-0" frameY="-0" frameWidth="7" frameHeight="8"/>
+  <SubTexture name="left" x="14" y="0"  width="7" height="8" frameX="-0" frameY="-0" frameWidth="7" frameHeight="8"/>
+  <SubTexture name="right" x="21" y="0"  width="7" height="8" frameX="-0" frameY="-0" frameWidth="7" frameHeight="8"/>
+  <SubTexture name="up" x="28" y="0"  width="8" height="9" frameX="-0" frameY="-0" frameWidth="8" frameHeight="9"/>
+</TextureAtlas>

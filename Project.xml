@@ -2,7 +2,7 @@
 <project>
 	<!-- _________________________ Application Settings _________________________ -->
 
-	<app title="Friday Night Funkin': Universe Engine" file="UniverseEngine" packageName="com.univere.engine" package="com.universe.engine" main="Main" version="0.2.8" company="Universe" />
+	<app title="Friday Night Funkin': Universe Engine: VS Looky Edition" file="Vs Looky" packageName="com.vslooky.looky" package="com.vslooky.looky" main="Main" version="0.2.8" company="VSLooky" />
 
 	<!--Switch Export with Unique ApplicationID and Icon-->
 	<set name="APP_ID" value="0x0100f6c013bbc000" />

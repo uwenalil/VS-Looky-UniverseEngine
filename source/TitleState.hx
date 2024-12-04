@@ -69,6 +69,7 @@ class TitleState extends MusicBeatState
 	var credTextShit:Alphabet;
 	var textGroup:FlxGroup;
 	var ngSpr:FlxSprite;
+	var universeSpr:FlxSprite;
 
 	var titleTextColors:Array<FlxColor> = [0xFF33FFFF, 0xFF3333CC];
 	var titleTextAlphas:Array<Float> = [1, .64];
@@ -521,6 +522,14 @@ class TitleState extends MusicBeatState
 		ngSpr.screenCenter(X);
 		ngSpr.antialiasing = ClientPrefs.globalAntialiasing;
 
+		universeSpr = new FlxSprite(0, FlxG.height * 0.52).loadGraphic(Paths.image('universe'));
+		add(universeSpr);
+		universeSpr.visible = false;
+		universeSpr.setGraphicSize(Std.int(ngSpr.width * 0.8));
+		universeSpr.updateHitbox();
+		universeSpr.screenCenter(X);
+		universeSpr.antialiasing = ClientPrefs.globalAntialiasing;
+
 		FlxTween.tween(credTextShit, {y: credTextShit.y + 20}, 2.9, {ease: FlxEase.quadInOut, type: PINGPONG});
 
 		if (initialized)
@@ -811,28 +820,26 @@ class TitleState extends MusicBeatState
 						FlxG.sound.playMusic(Paths.music("freakyMenu-" + ClientPrefs.mmm), 0);
 						FlxG.sound.music.fadeIn(4, 0, 0.7);
 					case 2:
-						createCoolText(['Universe Engine'], 15);
+						createCoolText(['VS Looky'], 15);
 					// credTextShit.visible = true;
 					case 3:
 						addMoreText('By', 15);
 					case 4:
-						addMoreText('uwenalil', 15);
-						addMoreText('VideoBot', 15);
-						addMoreText('BaranMuzu', 15);
+						addMoreText('Amazing People', 15);
+						//addMoreText('VideoBot', 15);
+						//addMoreText('BaranMuzu', 15);
 					// credTextShit.text += '\npresent...';
 					// credTextShit.addText();
 
 					case 5:
 						deleteCoolText();
 					case 6:
-						createCoolText(['You are listening'], -40);
+						createCoolText(['Associated'], -40);
 					case 7:
-						addMoreText('To', -40);
+						addMoreText('With', -40);
 					case 8:
-						addMoreText(ClientPrefs.mmm, -40);
-						addMoreText("Main menu song", -40);
-						addMoreText("Not associated with", 70);
-						addMoreText("Newgrounds", 70);
+						addMoreText("Universe Engine", -40);
+						universeSpr.visible = true;
 					/*
 						// credTextShit.visible = false;
 						// credTextShit.text = 'In association \nwith';
@@ -848,7 +855,7 @@ class TitleState extends MusicBeatState
 
 					case 9:
 						deleteCoolText();
-						ngSpr.visible = false;
+						universeSpr.visible = false;
 					// credTextShit.visible = false;
 
 					// credTextShit.text = 'Shoutouts Tom Fulp';
@@ -868,10 +875,10 @@ class TitleState extends MusicBeatState
 					// credTextShit.text = "Friday";
 					// credTextShit.screenCenter();
 					case 14:
-						addMoreText('Universe', -40);
+						addMoreText('Vs', -40);
 					// credTextShit.visible = true;
 					case 15:
-						addMoreText('Engine', -40);
+						addMoreText('Looky', -40);
 					// credTextShit.text += '\nNight';
 					case 16:
 						addMoreText(unWackyourwacky[0], -20); // credTextShit.text += '\nFunkin';
@@ -905,27 +912,25 @@ class TitleState extends MusicBeatState
 						// FlxG.sound.music.stop();
 						FlxG.sound.playMusic(Paths.music("freakyMenu-" + ClientPrefs.mmm), 0);
 						FlxG.sound.music.fadeIn(4, 0, 0.7);
-						createCoolText(['Universe Engine'], 15);
+						createCoolText(['Vs Looky'], 15);
 						addMoreText('By', 15);
-						addMoreText('uwenalil', 15);
-						addMoreText('VideoBot', 15);
-						addMoreText('BaranMuzu', 15);
+						addMoreText('Amazing People', 15);
 					case 6:
 						deleteCoolText();
-						createCoolText(['Not associated'], -40);
+						createCoolText(['Associated'], -40);
 						addMoreText('With', -40);
-						addMoreText('newgrounds', -40);
-						ngSpr.visible = true;
+						addMoreText('Universe Engine', -40);
+						universeSpr.visible = true;
 					case 9:
 						deleteCoolText();
-						ngSpr.visible = false;
+						universeSpr.visible = false;
 						addMoreText(curWacky[0], -20);
 					case 10:
 						addMoreText(curWacky[1], -20);
 					case 11:
 						addMoreText(curWacky[2], -20);
 					case 12:
-						addMoreText('FNF Universe');
+						addMoreText('FNF VS Looky');
 						addMoreText('Stay funky forever');
 					case 13:
 						skipIntro();
@@ -962,6 +967,7 @@ class TitleState extends MusicBeatState
 
 					default: // Go back to normal ugly ass boring GF
 						remove(ngSpr);
+						remove(universeSpr);
 						remove(credGroup);
 						FlxG.camera.flash(FlxColor.WHITE, 2);
 						skippedIntro = true;
@@ -978,6 +984,7 @@ class TitleState extends MusicBeatState
 					new FlxTimer().start(3.2, function(tmr:FlxTimer)
 					{
 						remove(ngSpr);
+						remove(universeSpr);
 						remove(credGroup);
 						FlxG.camera.flash(FlxColor.WHITE, 0.6);
 						transitioning = false;
@@ -986,6 +993,7 @@ class TitleState extends MusicBeatState
 				else
 				{
 					remove(ngSpr);
+					remove(universeSpr);
 					remove(credGroup);
 					FlxG.camera.flash(FlxColor.WHITE, 3);
 					sound.onComplete = function()

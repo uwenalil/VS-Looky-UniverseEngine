@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="angrykooky.png">
+<SubTexture name="angrykooky idle0000" x="941" y="873" width="342" height="407" frameX="-134" frameY="-206" frameWidth="619" frameHeight="619" />
+<SubTexture name="angrykooky idle0001" x="307" y="0" width="308" height="438" frameX="-152" frameY="-174" frameWidth="619" frameHeight="619" />
+<SubTexture name="angrykooky idle0002" x="0" y="444" width="320" height="429" frameX="-147" frameY="-183" frameWidth="619" frameHeight="619" />
+<SubTexture name="angrykooky singDOWN0000" x="1568" y="0" width="336" height="394" frameX="-138" frameY="-219" frameWidth="619" frameHeight="619" />
+<SubTexture name="angrykooky singDOWN0001" x="615" y="0" width="313" height="437" frameX="-150" frameY="-175" frameWidth="619" frameHeight="619" />
+<SubTexture name="angrykooky singDOWN0002" x="0" y="444" width="320" height="429" frameX="-147" frameY="-183" frameWidth="619" frameHeight="619" />
+<SubTexture name="angrykooky singLEFT0000" x="1271" y="0" width="297" height="423" frameX="-148" frameY="-192" frameWidth="619" frameHeight="619" />
+<SubTexture name="angrykooky singLEFT0001" x="0" y="873" width="308" height="419" frameX="-145" frameY="-196" frameWidth="619" frameHeight="619" />
+<SubTexture name="angrykooky singLEFT0002" x="308" y="873" width="302" height="418" frameX="-147" frameY="-194" frameWidth="619" frameHeight="619" />
+<SubTexture name="angrykooky singRIGHT0000" x="928" y="0" width="343" height="426" frameX="-147" frameY="-187" frameWidth="619" frameHeight="619" />
+<SubTexture name="angrykooky singRIGHT0001" x="320" y="444" width="320" height="429" frameX="-149" frameY="-187" frameWidth="619" frameHeight="619" />
+<SubTexture name="angrykooky singRIGHT0002" x="928" y="426" width="326" height="425" frameX="-147" frameY="-187" frameWidth="619" frameHeight="619" />
+<SubTexture name="angrykooky singUP0000" x="0" y="0" width="307" height="444" frameX="-154" frameY="-168" frameWidth="619" frameHeight="619" />
+<SubTexture name="angrykooky singUP0001" x="610" y="873" width="331" height="417" frameX="-139" frameY="-196" frameWidth="619" frameHeight="619" />
+<SubTexture name="angrykooky singUP0002" x="0" y="444" width="320" height="429" frameX="-147" frameY="-183" frameWidth="619" frameHeight="619" />
+</TextureAtlas>

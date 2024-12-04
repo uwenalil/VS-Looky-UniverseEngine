@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="MrCham.png">
+<SubTexture name="MrCham up0000" x="2874" y="0" width="1425" height="1073" frameX="-52" frameY="-87" frameWidth="1493" frameHeight="1160" />
+<SubTexture name="MrCham right0000" x="0" y="1122" width="1454" height="1078" frameX="-39" frameY="-82" frameWidth="1493" frameHeight="1160" />
+<SubTexture name="MrCham left0000" x="1443" y="0" width="1431" height="1105" frameX="0" frameY="-55" frameWidth="1493" frameHeight="1160" />
+<SubTexture name="MrCham idle0000" x="2874" y="1073" width="1386" height="1067" frameX="-107" frameY="-93" frameWidth="1493" frameHeight="1160" />
+<SubTexture name="MrCham down0000" x="0" y="0" width="1443" height="1122" frameX="-21" frameY="-38" frameWidth="1493" frameHeight="1160" />
+</TextureAtlas>

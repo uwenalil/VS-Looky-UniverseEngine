@@ -1,0 +1,166 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Change Character",
+						"dad",
+						"FNAFLookyControl"
+					]
+				]
+			],
+			[
+				103.448275862069,
+				[
+					[
+						"Opponent Fade",
+						"0",
+						"25"
+					]
+				]
+			],
+			[
+				13241.3793103448,
+				[
+					[
+						"Change Scrolltype",
+						"",
+						"on"
+					]
+				]
+			],
+			[
+				31448.275862069,
+				[
+					[
+						"Change Scrolltype",
+						"on",
+						""
+					]
+				]
+			],
+			[
+				33103.4482758621,
+				[
+					[
+						"Change Scrolltype",
+						"off",
+						"on"
+					]
+				]
+			],
+			[
+				52965.5172413793,
+				[
+					[
+						"Change Scrolltype",
+						"",
+						"off"
+					]
+				]
+			],
+			[
+				60827.5862068965,
+				[
+					[
+						"Change Scrolltype",
+						"",
+						"on"
+					]
+				]
+			],
+			[
+				72827.5862068965,
+				[
+					[
+						"Change Scrolltype",
+						"",
+						"off"
+					]
+				]
+			],
+			[
+				79344.8275862069,
+				[
+					[
+						"Change Scrolltype",
+						"",
+						"on"
+					]
+				]
+			],
+			[
+				86068.9655172413,
+				[
+					[
+						"Change Scrolltype",
+						"",
+						"off"
+					]
+				]
+			],
+			[
+				87724.1379310344,
+				[
+					[
+						"Change Scrolltype",
+						"",
+						"on"
+					]
+				]
+			],
+			[
+				89793.1034482758,
+				[
+					[
+						"Change Scrolltype",
+						"",
+						"off"
+					]
+				]
+			],
+			[
+				99310.3448275861,
+				[
+					[
+						"Change Scrolltype",
+						"",
+						"on"
+					]
+				]
+			],
+			[
+				107482.75862069,
+				[
+					[
+						"Change Scrolltype",
+						"on",
+						"on"
+					]
+				]
+			],
+			[
+				112551.724137931,
+				[
+					[
+						"Change Scrolltype",
+						"off",
+						"off"
+					]
+				]
+			],
+			[
+				125793.103448276,
+				[
+					[
+						"Change Scrolltype",
+						"",
+						"on"
+					]
+				]
+			]
+		]
+	}
+}
