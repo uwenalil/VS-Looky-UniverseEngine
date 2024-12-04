@@ -12,10 +12,10 @@
   UE: VS LOOKY EDITION IS REAL!!!!
 </h4>
 
-# Hello!
+# VS Looky UNIVERSE ENGINE
 
 uhm, hi :p
 
-VS Looky Universe Engine, so cool am i right?
+VS Looky Universe Engine, so cool am i right? (pwease say yes)
 
 #
